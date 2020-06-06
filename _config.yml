@@ -38,8 +38,7 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
-plugins:
-  - jekyll-paginate-v2
+gems: [jekyll-paginate-v2]
 
 
 # Settings for rake task
