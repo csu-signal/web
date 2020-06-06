@@ -46,12 +46,12 @@ plugins:
 safe: False
 lsi: False
 username: csu-signal #github username
-repo: csu-signal.github.io #github repository
+repo: web #github repository
 branch: master #branch
 relative_source: / #source directory
 destination: /pages/ #destination directory
-production_url:  https://csu-signal.github.io/
-source_url:  https://github.com/csu-signal/csu-signal.github.io #source repository url
+production_url:  https://csu-signal.github.io/web/
+source_url:  https://github.com/csu-signal/web/ #source repository url
 
 exclude:
   - README.md
