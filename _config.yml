@@ -1,6 +1,6 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: SIGNAL Lab
+description: Situated Grounding and Natural Language: NLP @ CSU
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
@@ -23,7 +23,7 @@ github: csu-signal
 #Additional Pages
 about: about
 contact: contact
-privacy-policy: privacy-policy
+conduct-policy: conduct-policy
 
 
 permalink: /:title
