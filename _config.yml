@@ -4,8 +4,8 @@ description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and w
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://csu-signal.github.io/web/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://csu-signal.github.io/web" # the base hostname & protocol for your site
 
 pagination:
 
@@ -50,7 +50,7 @@ repo: web #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ../hanuman-pages/ #destination directory
-production_url:  https://csu-signal.github.io/web/
+production_url:  https://csu-signal.github.io/web
 source_url:  https://github.com/csu-signal/web #source repository url
 
 exclude:
