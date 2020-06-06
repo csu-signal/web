@@ -45,7 +45,7 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: nkrishnaswamy #github username
+username: csu-signal #github username
 repo: web #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
