@@ -54,7 +54,10 @@
         </ul>
     </nav>
     <small>
-        <p align="center"><a href="https://compsci.colostate.edu"><img src="assets/images/csu.png" width="320"></a><br/>
+        <p align="center">
+            {% if site.footerimg %}
+            <a href="https://compsci.colostate.edu"><img src="{{site.baseurl}}{{site.footerimg}}" width="320"></a><br/>
+            {% endif %]
         &copy; 2020
     <a href="{{site.baseurl}}">{{site.name}}</a> &nbsp; | &nbsp;  All Rights Reserved.</p>
 
