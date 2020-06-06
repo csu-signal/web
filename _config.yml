@@ -18,7 +18,7 @@ pagination:
   per_page: 5
 
 # Social
-github:  csu-signal
+github: csu-signal
 
 #Additional Pages
 about: about
@@ -38,7 +38,8 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
-gems: [jekyll-paginate-v2]
+plugins:
+  - jekyll-paginate-v2
 
 
 # Settings for rake task
