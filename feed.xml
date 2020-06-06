@@ -3,10 +3,10 @@
   <channel>
     <title>SIGNAL Lab</title>
     <description>Situated Grounding and Natural Language - NLP @ CSU</description>
-    <link>https://csu-signal.github.io/web//</link>
-    <atom:link href="https://csu-signal.github.io/web//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Jun 2020 23:48:46 +0000</pubDate>
-    <lastBuildDate>Sat, 06 Jun 2020 23:48:46 +0000</lastBuildDate>
+    <link>https://csu-signal.github.io/web///</link>
+    <atom:link href="https://csu-signal.github.io/web///feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 06 Jun 2020 23:53:29 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Jun 2020 23:53:29 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -43,7 +43,7 @@
 
 &lt;h3&gt;Image&lt;/h3&gt;
 
-&lt;amp-img src=&quot;assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
+&lt;amp-img src=&quot;/assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
 
 &lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
 
@@ -381,8 +381,8 @@ The &lt;u&gt;u element&lt;/u&gt; example&lt;/p&gt;
 &lt;/amp-youtube&gt;
 </description>
         <pubDate>Thu, 30 Nov 2017 04:00:00 +0000</pubDate>
-        <link>https://csu-signal.github.io/web//style-guide</link>
-        <guid isPermaLink="true">https://csu-signal.github.io/web//style-guide</guid>
+        <link>https://csu-signal.github.io/web///style-guide</link>
+        <guid isPermaLink="true">https://csu-signal.github.io/web///style-guide</guid>
         
         <category>guide</category>
         
@@ -399,8 +399,8 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Nov 2017 04:00:00 +0000</pubDate>
-        <link>https://csu-signal.github.io/web//sample</link>
-        <guid isPermaLink="true">https://csu-signal.github.io/web//sample</guid>
+        <link>https://csu-signal.github.io/web///sample</link>
+        <guid isPermaLink="true">https://csu-signal.github.io/web///sample</guid>
         
         <category>test</category>
         
@@ -439,8 +439,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 28 Nov 2017 04:00:00 +0000</pubDate>
-        <link>https://csu-signal.github.io/web//code</link>
-        <guid isPermaLink="true">https://csu-signal.github.io/web//code</guid>
+        <link>https://csu-signal.github.io/web///code</link>
+        <guid isPermaLink="true">https://csu-signal.github.io/web///code</guid>
         
         <category>code</category>
         
@@ -451,7 +451,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
         <title>Media</title>
         <description>&lt;h3 id=&quot;image&quot;&gt;Image&lt;/h3&gt;
 
-&lt;amp-img src=&quot;assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
+&lt;amp-img src=&quot;/assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
 
 &lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
 
@@ -459,7 +459,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 
 &lt;h3 id=&quot;image-with-heading&quot;&gt;Image With Heading&lt;/h3&gt;
 &lt;figure class=&quot;ampstart-image-with-heading  m0 relative mb4&quot;&gt;
-  &lt;amp-img src=&quot;assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
+  &lt;amp-img src=&quot;/assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
   &lt;figcaption class=&quot;absolute right-0 bottom-0 left-0&quot;&gt;
     &lt;header class=&quot;ampstart-image-heading px2 py2 line-height-4&quot;&gt;
       &lt;h1&gt;Shiva&lt;/h1&gt;
@@ -471,7 +471,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 
 &lt;h3 id=&quot;image-with-caption&quot;&gt;Image With Caption&lt;/h3&gt;
 &lt;figure class=&quot;ampstart-image-with-caption m0 relative mb4&quot;&gt;
-  &lt;amp-img src=&quot;assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
+  &lt;amp-img src=&quot;/assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
   &lt;figcaption class=&quot;h5 mt1 px3&quot;&gt;
     &lt;p&gt;Duis nec dolor et quam vulputate sagittis. Nam arcu ex, suscipit nec cursus a, volutpat sit amet felis.
 &lt;span class=&quot;ampstart-image-credit block bold&quot;&gt;
@@ -503,8 +503,8 @@ Taken by
 &lt;/amp-audio&gt;
 </description>
         <pubDate>Mon, 27 Nov 2017 04:00:00 +0000</pubDate>
-        <link>https://csu-signal.github.io/web//media</link>
-        <guid isPermaLink="true">https://csu-signal.github.io/web//media</guid>
+        <link>https://csu-signal.github.io/web///media</link>
+        <guid isPermaLink="true">https://csu-signal.github.io/web///media</guid>
         
         <category>media</category>
         
