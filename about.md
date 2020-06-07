@@ -10,7 +10,7 @@ The SIGNAL (**Si**tuated **G**rounding and **Na**tural **L**anguage) Lab studies
 
 ### What is situated grounding?
 
-<font size=-1>"Grounding" refers to the process of giving a linguistic reference meaning by linking it to an actual entity (for example, the noun "cat" to an actual cat or the verb "run" to the act of running).  "Situated" here refers to the contextual model a person or computational agent creates of the situation/environment it inhabits, including what entities surround it, and what it can do in that environment.
+<font size="1">"Grounding" refers to the process of giving a linguistic reference meaning by linking it to an actual entity (for example, the noun "cat" to an actual cat or the verb "run" to the act of running).  "Situated" here refers to the contextual model a person or computational agent creates of the situation/environment it inhabits, including what entities surround it, and what it can do in that environment.
 
 This is a skill that humans excel at but that even the most sophisticated AI systems still struggle with.  Try asking your iPhone or Google Home, "What am I pointing at?"  Because these devices have no model of the surrounding environment, they can't answer the question!
 
