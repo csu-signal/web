@@ -10,7 +10,7 @@ The SIGNAL (**Si**tuated **G**rounding and **Na**tural **L**anguage) Lab studies
 
 ### What is situated grounding?
 
-<font size="1">"Grounding" refers to the process of giving a linguistic reference meaning by linking it to an actual entity (for example, the noun "cat" to an actual cat or the verb "run" to the act of running).  "Situated" here refers to the contextual model a person or computational agent creates of the situation/environment it inhabits, including what entities surround it, and what it can do in that environment.
+<font size="2">"Grounding" refers to the process of giving a linguistic reference meaning by linking it to an actual entity (for example, the noun "cat" to an actual cat or the verb "run" to the act of running).  "Situated" here refers to the contextual model a person or computational agent creates of the situation/environment it inhabits, including what entities surround it, and what it can do in that environment.
 
 This is a skill that humans excel at but that even the most sophisticated AI systems still struggle with.  Try asking your iPhone or Google Home, "What am I pointing at?"  Because these devices have no model of the surrounding environment, they can't answer the question!
 
@@ -18,16 +18,16 @@ This is a skill that humans excel at but that even the most sophisticated AI sys
 
 ### What do we work on?
 
-The term "situated grounding" was first used in the context of "situated grounding *problems*," or failures of intelligent systems to go just that. By merging natural language understanding to sophisticated environmental and simulation models, we develop solutions to these problems, allowing for natural and useful interactions with intelligent agents, large datasets, and robots.
+<font size="2">The term "situated grounding" was first used in the context of "situated grounding *problems*," or failures of intelligent systems to go just that. By merging natural language understanding to sophisticated environmental and simulation models, we develop solutions to these problems, allowing for natural and useful interactions with intelligent agents, large datasets, and robots.
 
-This involves work in AI, including developing and deploying machine learning and neurosymbolic models; theoretical and corpus linguistcs, including semantic modeling and annotating data; and software engineering, including building and deploying real-time interactive architectures.
+This involves work in AI, including developing and deploying machine learning and neurosymbolic models; theoretical and corpus linguistcs, including semantic modeling and annotating data; and software engineering, including building and deploying real-time interactive architectures.</font>
 
 ### What are some projects?
 
-Above is **Diana**, an intelligent interactive agent who understands spoken English and gestures to collaborate with a human in real time on construction tasks.  We also have ongoing work with navigating robots and multimodal data exploration.
+<font size="2">Above is **Diana**, an intelligent interactive agent who understands spoken English and gestures to collaborate with a human in real time on construction tasks.  We also have ongoing work with navigating robots and multimodal data exploration.
 
-Our primary platform is **VoxWorld**, which is built on the Unity game engine and **VoxML** a multimodal semantic modeling language that allows us to interpret language, gesture, and other modalities in a simulated environment. Individual implementations built on VoxWorld allow humans to communicate with intelligent agents such as Diana in ways that the agent's embodiment allows, be that manipulating virtual objects, or navigating a real space and finding objects.
+Our primary platform is **VoxWorld**, which is built on the Unity game engine and **VoxML** a multimodal semantic modeling language that allows us to interpret language, gesture, and other modalities in a simulated environment. Individual implementations built on VoxWorld allow humans to communicate with intelligent agents such as Diana in ways that the agent's embodiment allows, be that manipulating virtual objects, or navigating a real space and finding objects.</font>
 
 ### Can I get involved?
 
-If you are a current CSU student, feel free to <a href="contact">contact us</a>.  If you are not a current CSU student, you should <a href="https://admissions.colostate.edu">apply to the university</a>.
+<font size="2">If you are a current CSU student, feel free to <a href="contact">contact us</a>.  If you are not a current CSU student, you should <a href="https://admissions.colostate.edu">apply to the university</a>.</font>
