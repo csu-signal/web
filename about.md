@@ -18,7 +18,7 @@ This is a skill that humans excel at but that even the most sophisticated AI sys
 
 #### What do we work on?
 
-<font size="3">The term "situated grounding" was first used in the context of "situated grounding <emph>problems</emph>," or failures of intelligent systems to go just that. By merging natural language understanding to sophisticated environmental and simulation models, we develop solutions to these problems, allowing for natural and useful interactions with intelligent agents, large datasets, and robots.
+<font size="3">The term "situated grounding" was first used in the context of "situated grounding <emph>problems</emph>," or failures of intelligent systems to link references to entities in context. By merging natural language understanding to sophisticated environmental and simulation models, we develop solutions to these problems, allowing for natural and useful interactions with intelligent agents, large datasets, and robots.
 
 This involves work in AI, including developing and deploying machine learning and neurosymbolic models; theoretical and corpus linguistcs, including semantic modeling and annotating data; and software engineering, including building and deploying real-time interactive architectures.</font>
 
