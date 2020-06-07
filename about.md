@@ -30,4 +30,4 @@ Our primary platform is <strong>VoxWorld</strong>, which is built on the Unity g
 
 #### Can I get involved?
 
-<font size="3">If you are a current CSU student, feel free to <a href="contact">contact us</a>.  If you are not a current CSU student, you should <a href="https://admissions.colostate.edu">apply to the university</a>.</font>
+<font size="3">If you are a current CSU student, feel free to <a href="../contact">contact us</a>.  If you are not a current CSU student, you should <a href="https://admissions.colostate.edu">apply to the university</a>.</font>
