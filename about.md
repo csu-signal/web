@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="/assets/images/diana.png"></amp-img>
+<amp-img width="600" height="300" layout="responsive" src="../assets/images/diana.png"></amp-img>
 
 The SIGNAL (**Si**tuated **G**rounding and **Na**tural **L**anguage) Lab studies language understanding and cognition from a computational perspective.  We tackle cutting-edge AI problems from a strongly multimodal perspective, welding computational linguistics and natural language processing with computer vision and cognitive systems.  We take a hybrid "neurosymbolic" approach that includes machine learning, logical reasoning, and simulation.  The SIGNAL Lab was spun out of the <a href="https://brandeis-llc.github.io">Lab for Linguistics and Computation</a> at Brandeis University and we collaborate heavily with other labs in the Colorado State Department of Computer Science, including the <a href="https://www.cs.colostate.edu/~draper/CwC.php">Communicating with Computers Lab</a> and the <a href="https://nuilab.org/Home">Natural User Interface Lab</a>.  The lab is directed by Prof. <a href="https://www.nikhilkrishnaswamy.com">Nikhil Krishnaswamy</a>.
 
