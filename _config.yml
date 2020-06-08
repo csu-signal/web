@@ -4,7 +4,7 @@ name: SIGNAL Lab
 description: Situated Grounding and Natural Language <br/> NLP @ CSU
 cover: assets/images/bg.png
 logo: assets/images/logo.png
-favicon: assets/images/favicon.png
+favicon: assets/images/logo.png
 footerimg: assets/images/csu.png
 baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://csu-signal.github.io/web/" # the base hostname & protocol for your site
