@@ -19,19 +19,19 @@ img {
 <div id="people">
 {% for person in site.data.people %}
 <h3 id="{{ username }}">{{ person[1].name }}</h3>
-  {% if {{ person[1].assets }} %}
+  {% if person[1].assets != null %}
     <img src="{{ person[1].assets }}" width="150" height="150" class="left"/>
   {% endif %}
   <p align="left">
     {{ person[1].bio }}
   </p>
   <p align="left">
-    {% if {{ person[1].location }} %}
+    {% if person[1].location != null %}
       Location: {{ person[1].location }}
     {% endif %}
   </p>
     <p align="left">
-    {% if {{ person[1].url_full }} %}
+    {% if person[1].url_full != null %}
       Website: {{ person[1].url_full }}
     {% endif %}
   </p>
