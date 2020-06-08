@@ -19,7 +19,7 @@ img {
 <div id="people">
 {% for person in site.data.people %}
 <h3 id="{{ username }}">{{ person[1].name }}</h3>
-    <img src="assets/images/krishnaswamy.png">
+  <img src="http://csu-signal.github.io/assets/images/krishnaswamy.png" width="150" height="150">
   <p align="left">
     {{ person[1].bio }}<br/>
     {% if person[1].location != null %}
