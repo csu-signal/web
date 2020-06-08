@@ -23,9 +23,9 @@ img {
     {% if person[1].assets != null %}
       <img src="{{ person[1].assets | absolute_url }}" width="150" height="150" class="left" />
     {% endif %}
-    {{ person[1].bio }}<br/>
+    {{ person[1].bio }}
     {% if person[1].location != null %}
-      <strong>Location:</strong> {{ person[1].location }}<br/>
+      <strong>Location:</strong> {{ person[1].location }}
     {% endif %}
     {% if person[1].url_full != null %}
       <strong>Website:</strong> <a href="{{ person[1].url_full }}">{{ person[1].url_full }}</a>
