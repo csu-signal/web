@@ -24,13 +24,9 @@ img {
   {% endif %}
   <p align="left">
     {{ person[1].bio }}
-  </p>
-  <p align="left">
     {% if person[1].location != null %}
       Location: {{ person[1].location }}
     {% endif %}
-  </p>
-    <p align="left">
     {% if person[1].url_full != null %}
       Website: {{ person[1].url_full }}
     {% endif %}
