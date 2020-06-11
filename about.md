@@ -14,7 +14,7 @@ permalink: /about/
 
 This is a skill that humans excel at but that even the most sophisticated AI systems still struggle with.  Try asking your iPhone or Google Home, "What am I pointing at?"  Because these devices have no model of the surrounding environment, they can't answer the question!
 
-"Situated grounding" is the process of giving symbols meaning by linking them to entities in the surrounding environment, It allows for a criital feature of language use: decontextualized reference, or the use of a symbol outside the situation where the linked entity is present.  That is, there doesn't need to be a cat in the room to talk about cats, as long as everyone understands what a cat is and what it does, which they most likely learned by seeing or interacting with a cat somewhere else.</font>
+"Situated grounding" is the process of giving symbols meaning by linking them to entities in the surrounding environment, It allows for a critital feature of language use: decontextualized reference, or the use of a symbol outside the situation where the linked entity is present.  That is, there doesn't need to be a cat in the room to talk about cats, as long as everyone understands what a cat is and what it does, which they most likely learned by seeing or interacting with a cat somewhere else.</font>
 
 #### What do we work on?
 
@@ -30,4 +30,4 @@ Our primary platform is <strong>VoxWorld</strong>, which is built on the Unity g
 
 #### Can I get involved?
 
-<font size="3">If you are a current CSU student, feel free to <a href="../contact">contact us</a>.  If you are not a current CSU student, you should <a href="https://admissions.colostate.edu">apply to the university</a>.</font>
+<font size="3">If you are a current CSU student, feel free to <a href="../contact">contact us</a>.  If you are not a current CSU student, you should <a href="https://admissions.colostate.edu">apply to the university</a>.  Prior experience with or a desire to learn computer graphics and/or machine learning is recommended.  Strong software engineering skills are a plus.</font>
