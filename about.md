@@ -26,7 +26,7 @@ This involves work in AI, including developing and deploying machine learning an
 
 <font size="3">Above is <strong>Diana</strong>, an intelligent interactive agent who understands spoken English and gestures to collaborate with a human in real time on construction tasks.  We also have ongoing work with navigating robots and multimodal data exploration.
 
-Our primary platform is <strong>VoxWorld</strong>, which is built on the Unity game engine and <strong>VoxML</strong> a multimodal semantic modeling language that allows us to interpret language, gesture, and other modalities in a simulated environment. Individual implementations built on VoxWorld allow humans to communicate with intelligent agents such as Diana in ways that the agent's embodiment allows, be that manipulating virtual objects, or navigating a real space and finding objects.</font>
+Our primary platform is <strong>VoxWorld</strong>, which is built on the Unity game engine and <strong>VoxML</strong> a multimodal semantic modeling language that allows us to interpret language, gesture, and other modalities in a simulated environment. Individual implementations built on VoxWorld allow humans to communicate with intelligent agents such as Diana in ways that the agent's embodiment allows, be that manipulating virtual objects, or navigating a real space and finding items of interest.</font>
 
 #### Can I get involved?
 
