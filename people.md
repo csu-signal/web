@@ -21,7 +21,7 @@ img {
 <h3 id="{{ username }}">{{ person[1].name }}</h3>
   <p align="left">
     {% if person[1].assets != null %}
-      <img src="{{ person[1].assets | absolute_url }}" width="150" height="150" class="left" />
+      <img src="{{ person[1].assets | absolute_url }}" width="160" height="150" class="left" />
     {% endif %}
     {{ person[1].bio }}<br />
     {% if person[1].location != null %}
