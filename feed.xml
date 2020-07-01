@@ -5,9 +5,26 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Jul 2020 00:55:49 +0000</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2020 00:55:49 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2020 10:54:17 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2020 10:54:17 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Introducing SIGNAL Lab</title>
+        <description>&lt;p&gt;I’m pleased to announce the formation of my lab here at Colorado State, the &lt;strong&gt;Si&lt;/strong&gt;utated &lt;strong&gt;G&lt;/strong&gt;rounding and &lt;strong&gt;Na&lt;/strong&gt;tural &lt;strong&gt;L&lt;/strong&gt;anguage Lab.  As the primary NLP group in the CSU Computer Science department, we aim to produce cutting-edge AI research in language processing and understanding that’s grounded in linguistic knowledge and multimodality, as well as cognitive science, philosophy, psychology, and more.  We collaborate extensively with other CSU CS labs, including the &lt;a href=&quot;https://www.cs.colostate.edu/~draper/CwC.php&quot;&gt;CWC&lt;/a&gt; and &lt;a href=&quot;https://nuilab.org/Home&quot;&gt;NUI&lt;/a&gt; Labs, and with groups at Brandeis University, Tufts University, and others.  Broadly, we study language and cognition using machine learning, logical architectures, and simulation methods. Much of our work involves intelligent, interactive, multimodal agents.&lt;/p&gt;
+
+&lt;p&gt;We are currently seeking new researchers and collaborators, including students interested in language, AI, and machine learning. Prior experience or interest in graphics or software engineering is a plus, and women and underrepresented minorities are particularly encouraged to encouraged to get in touch. Interested in working with us? Please &lt;a href=&quot;contact/&quot;&gt;contact us!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jul 2020 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai//introducing-signal-lab</link>
+        <guid isPermaLink="true">https://www.signallab.ai//introducing-signal-lab</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        
+      </item>
     
   </channel>
 </rss>
