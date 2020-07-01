@@ -130,13 +130,13 @@ layout: default
     <!-- End Related article -->
 <hr>
 
-{% for author in site.data.authors %}
+{% for author in site.data.people %}
   {% if author[1].username == page.author %}
     <div class="author-section mb4">
         {% if author[1].assets %}
             <amp-img width="100" height="100" class="author-thumb-post" layout="responsive" src="{{ site.baseurl }}{{author[1].assets}}" alt="{{author[1].name}}"/></amp-img>
         {% endif %}
-        <a href="{{site.baseurl}}authors/#{{author[1].username}}"><h4 class="author-name">{{author[1].name}}</h4></a>
+        <a href="{{site.baseurl}}people/#{{author[1].username}}"><h4 class="author-name">{{author[1].name}}</h4></a>
         <p class="mb4 px3">{{author[1].bio}}</p>
     </div>
   {% endif %}
@@ -145,8 +145,8 @@ layout: default
 <!-- Start Socialbox -->
 <div class="ampstart-social-box mb4">
   <amp-social-share type="twitter" aria-label="Share this on Twitter"></amp-social-share>
-  <amp-social-share type="facebook" aria-label="Share this on Facebook" data-param-app_id="145393166088568"></amp-social-share>
-  <amp-social-share type="gplus" aria-label="Share this on Google Plus"></amp-social-share>
+  <!--<amp-social-share type="facebook" aria-label="Share this on Facebook" data-param-app_id="145393166088568"></amp-social-share>-->
+  <!--<amp-social-share type="gplus" aria-label="Share this on Google Plus"></amp-social-share>-->
   <amp-social-share type="email" aria-label="Share this with E-mail"></amp-social-share>
 </div>
 <!-- End Socialbox -->
