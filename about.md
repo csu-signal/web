@@ -10,16 +10,15 @@ permalink: /about/
 
 #### What is situated grounding?
 
-<font size="3">"Grounding" refers to the process of giving a linguistic reference meaning by linking it to an actual entity (for example, the noun "cat" to an actual cat or the verb "run" to the act of running).  "Situated" here refers to the contextual model a person or computational agent creates of the situation/environment it inhabits, including what entities surround it, and what it can do in that environment.</font>
+<font size="3">"Grounding" refers to the process of giving a linguistic reference meaning by linking it to an actual entity (for example, the noun "cat" to an actual cat or the verb "run" to the act of running).  "Situated" here refers to the contextual model a person or computational agent creates of the situation/environment it inhabits, including what entities surround it, and what it can do in that environment.</font><br />
 
-
-<font size="3">This is a skill that humans excel at but that even the most sophisticated AI systems still struggle with.  Try asking your iPhone or Google Home, "What am I pointing at?"  Because these devices have no model of the surrounding environment, they can't answer the question!</font>
+<font size="3">This is a skill that humans excel at but that even the most sophisticated AI systems still struggle with.  Try asking your iPhone or Google Home, "What am I pointing at?"  Because these devices have no model of the surrounding environment, they can't answer the question!</font><br />
 
 <font size="3">"Situated grounding" is the process of giving symbols meaning by linking them to entities in the surrounding environment, It allows for a critical feature of language use: decontextualized reference, or the use of a symbol outside the situation where the linked entity is present.  That is, there doesn't need to be a cat in the room to talk about cats, as long as everyone understands what a cat is and what it does, which they most likely learned by seeing or interacting with a cat somewhere else.</font>
 
 #### What do we work on?
 
-<font size="3">The term "situated grounding" was first used in the context of "situated grounding <emph>problems</emph>," or failures of intelligent systems to link references to entities in context. By merging natural language understanding to sophisticated environmental and simulation models, we develop solutions to these problems, allowing for natural and useful interactions with intelligent agents, large datasets, and robots.</font>
+<font size="3">The term "situated grounding" was first used in the context of "situated grounding <emph>problems</emph>," or failures of intelligent systems to link references to entities in context. By merging natural language understanding to sophisticated environmental and simulation models, we develop solutions to these problems, allowing for natural and useful interactions with intelligent agents, large datasets, and robots.</font><br />
 
 <font size="3">This involves work in AI, including developing and deploying machine learning and neurosymbolic models; theoretical and corpus linguistics, including semantic modeling and annotating data; and software engineering, including building real-time interactive architectures.</font>
 
