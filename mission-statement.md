@@ -9,8 +9,7 @@ permalink: /mission-statement/
   to the field and society.  AI is a fundamentally collaborative field and we are a collaborative group, both with each other, and with other labs.  Our
   approach to AI draws significant influence from diverse fields such as linguistics, cognitive science, psychology, and philosophy, among others.  Researchers
   are encouraged to cultivate a broad intellectual base across relevant fields.</font>
-
-#### 
+ 
 <font size="3">No one person is an expert in everything, and so we rely on each other's expertise and respect each other's contributions, regardless of
   credentials, level of achievement, or cultural or academic background.  Researchers should be comfortable assisting each other and asking for help from
   each other and from faculty when needed.  Novel approaches to research problems are particularly valued, and researchers are encouraged to come forward
