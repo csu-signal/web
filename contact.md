@@ -5,4 +5,4 @@ permalink: /contact/
 ---
 
 ### Please direct all inquiries to:
-nkrishna [at] colostate [dot] edu
+<font size="+1">nkrishna [at] colostate [dot] edu</font>
