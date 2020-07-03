@@ -32,4 +32,4 @@ Our primary platform is **VoxWorld**, which is built on the Unity game engine an
 
 #### Can I get involved?
 
-If you are a current CSU student, feel free to [contact us]("contact").  If you are not a current CSU student, you should [apply to the university](https://admissions.colostate.edu).  Prior experience with or a desire to learn computer graphics and/or machine learning is recommended.  Strong software engineering skills are a plus.
+If you are a current CSU student, feel free to [contact us](/contact).  If you are not a current CSU student, you should [apply to the university](https://admissions.colostate.edu).  Prior experience with or a desire to learn computer graphics and/or machine learning is recommended.  Strong software engineering skills are a plus.
