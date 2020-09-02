@@ -19,7 +19,7 @@ img {
 <div id="people">
   <div id="faculty">
   {% for person in site.data.people %}
-    {% if person[1].group == "faculty" %}
+    {% if person[1].group == 'faculty' %}
     <h3 id="{{ username }}">{{ person[1].name }}</h3>
       <p align="left">
       {% if person[1].assets != null %}
