@@ -17,7 +17,6 @@ img {
 </head>
 
 <div id="people">
-  <div id="faculty">
   {% for person in site.data.faculty %}
   <h3 id="{{ username }}">{{ person[1].name }}</h3>
     <p align="left">
@@ -34,5 +33,4 @@ img {
     </p>
   <hr>
   {% endfor %}
-  </div>
 </div>
