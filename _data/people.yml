@@ -1,8 +1,29 @@
 nkrishna:
   username: nkrishna
   name: Nikhil Krishnaswamy
+  group: faculty
   location: Fort Collins, CO
   url_full: https://www.nikhilkrishnaswamy.com
   url: www.nikhilkrishnaswamy.com
   bio: Assistant Professor of Computer Science and director of the SIGNAL Lab
   assets: assets/images/krishnaswamy.png
+  
+nadahass:
+  username: nadahass
+  name: Nada Alalyani
+  group: phd
+  location: Fort Collins, CO
+  url_full: 
+  url: 
+  bio: Ph.D. Student in Computer Science at Colorado State University
+  assets:
+  
+aniket24:
+  username: aniket24
+  name: Aniket Tomar
+  group: ms
+  location: Fort Collins, CO
+  url_full: 
+  url: 
+  bio: Graduate Student in Computer Science at Colorado State University
+  assets:
