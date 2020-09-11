@@ -25,6 +25,9 @@ img {
       <img src="{{ person[1].assets | absolute_url }}" width="160" height="150" class="left" />
     {% endif %}
     {{ person[1].bio }}<br />
+      {% if person[1].email != null %}
+      <strong>Email:</strong> {{ person[1].email }}
+    {% endif %}
     {% if person[1].location != null %}
       <strong>Location:</strong> {{ person[1].location }}
     {% endif %}
@@ -45,6 +48,9 @@ img {
       <img src="http://www.signallab.ai/assets/images/anonymous.png" width="160" height="150" class="left" />
     {% endif %}
     {{ person[1].bio }}<br />
+    {% if person[1].email != null %}
+      <strong>Email:</strong> {{ person[1].email }}
+    {% endif %}
     {% if person[1].location != null %}
       <strong>Location:</strong> {{ person[1].location }}
     {% endif %}
@@ -65,6 +71,9 @@ img {
       <img src="http://www.signallab.ai/assets/images/anonymous.png" width="160" height="150" class="left" />
     {% endif %}
     {{ person[1].bio }}<br />
+    {% if person[1].email != null %}
+      <strong>Email:</strong> {{ person[1].email }}
+    {% endif %}
     {% if person[1].location != null %}
       <strong>Location:</strong> {{ person[1].location }}
     {% endif %}
