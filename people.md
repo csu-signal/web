@@ -25,7 +25,7 @@ img {
       <img src="{{ person[1].assets | absolute_url }}" width="160" height="150" class="left" />
     {% endif %}
     {{ person[1].bio }}<br />
-      {% if person[1].email != null %}
+    {% if person[1].email != null %}
       <strong>Email:</strong> {{ person[1].email }}
     {% endif %}
     {% if person[1].location != null %}
