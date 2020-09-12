@@ -1,6 +1,7 @@
 nadahass:
   username: nadahass
   name: Nada Alalyani
+  email:
   location: Fort Collins, CO
   url_full: 
   url: 
@@ -10,6 +11,7 @@ nadahass:
 shadim:
   username: shadim
   name: Shadi Manafi
+  email:
   location: Fort Collins, CO
   url_full: 
   url: 
