@@ -42,15 +42,9 @@ img {
       <img src="http://www.signallab.ai/assets/images/anonymous.png" width="160" height="150" class="left" />
     {% endif %}
     {{ person[1].bio }}<br />
-    {% if person[1].email != null %}
-      <strong>Email:</strong> {{ person[1].email }}
-    {% endif %}
-    {% if person[1].location != null %}
-      <strong>Location:</strong> {{ person[1].location }}
-    {% endif %}
-    {% if person[1].url_full != null %}
-      <strong>Website:</strong> <a href="{{ person[1].url_full }}">{{ person[1].url_full }}</a>
-    {% endif %}
+    {% if person[1].email != null %}<strong>Email:</strong> {{ person[1].email }}<br />{% endif %}
+    {% if person[1].location != null %}<strong>Location:</strong> {{ person[1].location }}<br />{% endif %}
+    {% if person[1].url_full != null %}<strong>Website:</strong> <a href="{{ person[1].url_full }}">{{ person[1].url_full }}</a>{% endif %}
   </p>
   {% endfor %}
   <hr>
@@ -65,15 +59,9 @@ img {
       <img src="http://www.signallab.ai/assets/images/anonymous.png" width="160" height="150" class="left" />
     {% endif %}
     {{ person[1].bio }}<br />
-    {% if person[1].email != null %}
-      <strong>Email:</strong> {{ person[1].email }}
-    {% endif %}
-    {% if person[1].location != null %}
-      <strong>Location:</strong> {{ person[1].location }}
-    {% endif %}
-    {% if person[1].url_full != null %}
-      <strong>Website:</strong> <a href="{{ person[1].url_full }}">{{ person[1].url_full }}</a>
-    {% endif %}
+    {% if person[1].email != null %}<strong>Email:</strong> {{ person[1].email }}<br />{% endif %}
+    {% if person[1].location != null %}<strong>Location:</strong> {{ person[1].location }}<br />{% endif %}
+    {% if person[1].url_full != null %}<strong>Website:</strong> <a href="{{ person[1].url_full }}">{{ person[1].url_full }}</a>{% endif %}
   </p>
   {% endfor %}
   <hr>
