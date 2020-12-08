@@ -9,4 +9,4 @@ Our demo, *Situational Awareness in Human Computer Interaction: Diana’s World*
 
 The demo was presented on December 4th at the virtual conference.
 
-(X-posted on [nikhilkrishnaswamy.com](https://www.nikhilkrishnaswamy.com/2020/12/08/best-demo-icat-evge-2020.html))
+(X-posted on [nikhilkrishnaswamy.com](https://www.nikhilkrishnaswamy.com/2020/12/08/best-demo-icat-egve-2020.html))
