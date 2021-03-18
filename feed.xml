@@ -5,15 +5,15 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Mar 2021 16:50:13 +0000</pubDate>
-    <lastBuildDate>Thu, 18 Mar 2021 16:50:13 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Mar 2021 16:59:17 +0000</pubDate>
+    <lastBuildDate>Thu, 18 Mar 2021 16:59:17 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>New Publication at HCI+NLP Workshop @ EACL</title>
-        <description>&lt;p&gt;SIGNAL Lab Ph.D. student Nada Alalyani and I have a new publication that will be appearing at the Bridging HCI and NLP workshop at the EACL conference in April!  &lt;em&gt;Embodied Multimodal Agents to Bridge the Understanding Gap&lt;/em&gt; argues that embodied multimodal agents such as virtual avatars and robots play an important role in moving natural language processing toward “deep understanding,” and a demonstrable retrieval of communicative intent from an utterance, a la the definition propounded by Emily Bender and Alexander Koller in their “&lt;a href=&quot;https://www.aclweb.org/anthology/2020.acl-main.463.pdf&quot;&gt;Climbing towards NLU&lt;/a&gt;” paper from last year’s ACL.  We discuss the role of multimodal conversational systems in computationally modeling contextually-grounded communication, and discuss ongoing experiments in multimodal referring expression interpretation and generation as an illustrative use case, using CSU/Brandeis/UF’s very own &lt;a href=&quot;http://www.embodiedhci.net&quot;&gt;Diana&lt;/a&gt; agent.&lt;/p&gt;
+        <description>&lt;p&gt;SIGNAL Lab Ph.D. student Nada Alalyani and I have a new publication that will be appearing at the &lt;a href=&quot;https://sites.google.com/view/hciandnlp/home?authuser=0&quot;&gt;Bridging HCI and NLP&lt;/a&gt; workshop at the EACL conference in April!  &lt;em&gt;Embodied Multimodal Agents to Bridge the Understanding Gap&lt;/em&gt; argues that embodied multimodal agents such as virtual avatars and robots play an important role in moving natural language processing toward “deep understanding,” and a demonstrable retrieval of communicative intent from an utterance, a la the definition propounded by Emily Bender and Alexander Koller in their “&lt;a href=&quot;https://www.aclweb.org/anthology/2020.acl-main.463.pdf&quot;&gt;Climbing towards NLU&lt;/a&gt;” paper from last year’s ACL.  We discuss the role of multimodal conversational systems in computationally modeling contextually-grounded communication, and discuss ongoing experiments in multimodal referring expression interpretation and generation as an illustrative use case, using CSU/Brandeis/UF’s very own &lt;a href=&quot;http://www.embodiedhci.net&quot;&gt;Diana&lt;/a&gt; agent.&lt;/p&gt;
 
-&lt;p&gt;The HCI+NLP workshop will be held in conjunction with the EACL conference, April 19th or 20th (programme still TBD).  The conference will be held virtually (may we banish COVID and return to in-person events soon!).  Before the proceedings are released, the paper can be viewed &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/assets/docs/pdfs/HCI+NLP-2021.pdf&quot;&gt;here&lt;/a&gt; on my personal website, and will be appearing on arXiv soon.&lt;/p&gt;
+&lt;p&gt;The HCI+NLP workshop will be held in conjunction with the EACL conference, April 20th.  The conference will be held virtually (may we banish COVID and return to in-person events soon!).  Before the proceedings are released, the paper can be viewed &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/assets/docs/pdfs/HCI+NLP-2021.pdf&quot;&gt;here&lt;/a&gt; on my personal website, and will be appearing on arXiv soon.&lt;/p&gt;
 </description>
         <pubDate>Thu, 18 Mar 2021 07:00:00 +0000</pubDate>
         <link>https://www.signallab.ai//new-publication-hci-nlp</link>
