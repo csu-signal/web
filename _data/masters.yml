@@ -8,6 +8,16 @@ aniket24:
   bio: Graduate Student in Computer Science at Colorado State University
   assets: assets/images/fall20/tomar.png
   
+jgarcia:
+  username: jgarcia
+  name: Jason Garcia
+  location: Fort Collins, CO
+  email:
+  url_full:
+  url:
+  bio: Graduate Student in Computer Science at Colorado State University
+  assets:
+
 mohit_k:
   username: mohit_k
   name: Mohit Katragadda
@@ -17,3 +27,23 @@ mohit_k:
   url: 
   bio: Graduate Student in Computer Science at Colorado State University
   assets:
+
+smogulla:
+  username: smogulla
+  name: Shivani Mogullapalli
+  email: shivani [dot] mogullapalli [at] colostate [dot] edu
+  local: Fort Collins, CO
+  url_full:
+  url:
+  bio: Graduate Student in Computer Science at Colorado State University
+  assets: assets/images/summer21/mogullapalli.png
+
+sgaddam:
+  username: sgaddam
+  name: Shri Ram Gaddam
+  location: Fort Collins, CO
+  email: shriram [dot] gaddam [at] colostate [dot] edu
+  url_full:
+  url:
+  bio: Graduate Student in Computer Science at Colorado State University
+  assets: assets/images/summer21/gaddam.png
