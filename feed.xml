@@ -5,9 +5,34 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Oct 2021 03:59:37 +0000</pubDate>
-    <lastBuildDate>Sun, 31 Oct 2021 03:59:37 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Oct 2021 04:03:17 +0000</pubDate>
+    <lastBuildDate>Sun, 31 Oct 2021 04:03:17 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>New Publication at HCI+NLP Workshop @ EACL</title>
+        <description>&lt;p&gt;Congratulations to M.S. students Shivani Mogullapalli, Shriram Gaddam, and Mohit Kumar Katragadda who presented their M.S. Project posters at the CSU CS Graduate Research Symposium yesterday!  CSU Computer Science has a non-thesis research initiation option for master’s student wherein the student must conduct a research project under the guidance of a faculty member and present a poster on their project in their last semester.&lt;/p&gt;
+
+&lt;p&gt;Mohit’s project: &lt;strong&gt;Distributed Training of 3D Object Recognition Using Point Clouds&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Shivani’s project: &lt;strong&gt;Mapping Between Face Recogniton Feature Vector from Various CNN Models&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Shriram’s project: &lt;strong&gt;Exploring Embedding Spaces in Transformers by Mapping Feature Vectors&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Some pics from yesterday’s event are below:&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;img src=”assets/images/fall21/poster-shriram.jpg” width=480&amp;gt;&amp;lt;img src=”assets/images/fall21/poster-mohit.jpg” width=480&amp;gt;&amp;lt;img src=”assets/images/fall21/poster-shivani.jpg” width=480&amp;gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Oct 2021 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai//ms-project-posters</link>
+        <guid isPermaLink="true">https://www.signallab.ai//ms-project-posters</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        
+      </item>
     
       <item>
         <title>New Publication at HCI+NLP Workshop @ EACL</title>
