@@ -5,8 +5,8 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Oct 2021 04:12:16 +0000</pubDate>
-    <lastBuildDate>Sun, 31 Oct 2021 04:12:16 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Oct 2021 04:17:48 +0000</pubDate>
+    <lastBuildDate>Sun, 31 Oct 2021 04:17:48 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -23,8 +23,7 @@
 
 &lt;p&gt;Some pics from yesterday’s event are below:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/images/fall21/poster-shriram.jpg?raw=true&quot; alt=&quot;Exploring Embedding Spaces in Transformers by Mapping Feature Vectors&quot; title=&quot;Exploring Embedding Spaces in Transformers by Mapping Feature Vectors&quot; /&gt;
-img src=”assets/images/fall21/poster-mohit.jpg” width=480&amp;gt;&amp;lt;img src=”assets/images/fall21/poster-shivani.jpg” width=480&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/images/fall21/poster-shriram.jpg?raw=true&quot; alt=&quot;Exploring Embedding Spaces in Transformers by Mapping Feature Vectors&quot; title=&quot;Exploring Embedding Spaces in Transformers by Mapping Feature Vectors&quot; /&gt;&lt;img src=&quot;../assets/images/fall21/poster-mohit.jpg?raw=true&quot; alt=&quot;Distributed Training of 3D Object Recognition Using Point Clouds&quot; title=&quot;Distributed Training of 3D Object Recognition Using Point Clouds&quot; /&gt;&lt;img src=&quot;../assets/images/fall21/poster-shivani.jpg?raw=true&quot; alt=&quot;Mapping Between Face Recogniton Feature Vector from Various CNN Models&quot; title=&quot;Mapping Between Face Recogniton Feature Vector from Various CNN Models&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 30 Oct 2021 07:00:00 +0000</pubDate>
         <link>https://www.signallab.ai//ms-project-posters</link>
