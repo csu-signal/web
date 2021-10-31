@@ -16,4 +16,5 @@ Shriram's project: **Exploring Embedding Spaces in Transformers by Mapping Featu
 
 Some pics from yesterday's event are below:
 
-<img src="../assets/images/fall21/poster-shriram.jpg" width=480><img src="assets/images/fall21/poster-mohit.jpg" width=480><img src="assets/images/fall21/poster-shivani.jpg" width=480>
+![Exploring Embedding Spaces in Transformers by Mapping Feature Vectors](../assets/images/fall21/poster-shriram.jpg?raw=true "Exploring Embedding Spaces in Transformers by Mapping Feature Vectors")
+img src="assets/images/fall21/poster-mohit.jpg" width=480><img src="assets/images/fall21/poster-shivani.jpg" width=480>
