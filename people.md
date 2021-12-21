@@ -68,7 +68,7 @@ img {
   {% endfor %}
   <hr>
   
-  <h2>Alumni/h2>
+  <h2>Alumni</h2>
   {% for person in site.data.alumni %}
   <h3 id="{{ username }}">{{ person[1].name }}</h3>
   <p align="left">
