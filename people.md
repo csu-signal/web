@@ -70,7 +70,6 @@ img {
   
   <h2>Alumni</h2>
   {% for person in site.data.alumni %}
-  <h3 id="{{ username }}">{{ person[1].name }}</h3>
   <p align="left">
     <strong>{{ person[1].name }}</strong> ({{ person[1].degree }}, {{ person[1].year }}) - {{ person[1].next }}<br />
   </p>
