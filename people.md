@@ -69,10 +69,10 @@ img {
   <hr>
   
   <h2>Alumni</h2>
-  {% for person in site.data.alumni %}
   <p align="left">
-    <strong>{{ person[1].name }}</strong> ({{ person[1].degree }}, {{ person[1].year }}) - {{ person[1].next }}
-  </p>
+  {% for person in site.data.alumni %}
+    <strong>{{ person[1].name }}</strong> ({{ person[1].degree }}, {{ person[1].year }}) - {{ person[1].next }}<br />
   {% endfor %}
+  </p>
   <hr>
 </div>
