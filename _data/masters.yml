@@ -18,26 +18,6 @@ jgarcia:
   bio: Graduate Student in Computer Science at Colorado State University
   assets:
 
-mohit_k:
-  username: mohit_k
-  name: Mohit Katragadda
-  location: Fort Collins, CO
-  email:
-  url_full: 
-  url: 
-  bio: Graduate Student in Computer Science at Colorado State University
-  assets:
-
-smogulla:
-  username: smogulla
-  name: Shivani Mogullapalli
-  email: shivani [dot] mogullapalli [at] colostate [dot] edu
-  location: Fort Collins, CO
-  url_full:
-  url:
-  bio: Graduate Student in Computer Science at Colorado State University
-  assets: assets/images/summer21/mogullapalli.png
-
 sgaddam:
   username: sgaddam
   name: Shri Ram Gaddam
