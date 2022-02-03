@@ -1,3 +1,13 @@
+abhijnannath:
+  username: abhijnannath
+  name: Abhijnan Nath
+  email:
+  location: Fort Collins, CO
+  url_full:
+  url:
+  bio: Graduate Student in Computer Science at Colorado State University
+  assets:
+  
 aniket24:
   username: aniket24
   name: Aniket Tomar
@@ -11,6 +21,16 @@ aniket24:
 jgarcia:
   username: jgarcia
   name: Jason Garcia
+  location: Fort Collins, CO
+  email:
+  url_full:
+  url:
+  bio: Graduate Student in Computer Science at Colorado State University
+  assets:
+  
+rpatchava:
+  username: rpatchava
+  name: Ramya Sree Patchava
   location: Fort Collins, CO
   email:
   url_full:
