@@ -2,7 +2,7 @@
 layout: post
 title: Neurosymbolic AI at ACS 2020
 date: 2020-08-10 07:00:00
-tags: lab news
+tags: lab news pubs
 author: nkrishna
 ---
 Today I presented a long paper, "Neurosymbolic AI for Situated Language Understanding" at the Advances in Cognitive Systems conference, held virtually and hosted by the Palo Alto Research Center.
