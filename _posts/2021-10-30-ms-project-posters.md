@@ -2,7 +2,7 @@
 layout: post
 title: Congrats to M.S. Project Presenters
 date: 2021-10-30 07:00:00
-tags: lab news
+tags: lab news grads
 author: nkrishna
 ---
 
