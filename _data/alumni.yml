@@ -1,13 +1,27 @@
+dkpatil:
+  username: dkpatil
+  name: Dhruva Patil
+  degree: Ph.D.
+  year: 2022
+  next: Amazon Research
+
+jgarcia:
+  username: jgarcia
+  name: Jason Garcia
+  degree: M.S.
+  year: 2022
+  next: Ph.D., Math - Colorado State
+
 mohit_k:
   username: mohit_k
   name: Mohit Katragadda
-  degree: MS
+  degree: M.S.
   year: 2021
   next: SpringML
 
 smogulla:
   username: smogulla
   name: Shivani Mogullapalli
-  degree: MS
+  degree: M.S.
   year: 2021
   next: Amazon
