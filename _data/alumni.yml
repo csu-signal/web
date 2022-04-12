@@ -4,6 +4,13 @@ dkpatil:
   degree: Ph.D.
   year: 2022
   next: Amazon Research
+  
+sgaddam:
+  username: sgaddam
+  name: Shri Ram Gaddam
+  degree: M.S.
+  year: 2022
+  next: SpringML
 
 jgarcia:
   username: jgarcia
