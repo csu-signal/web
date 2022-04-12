@@ -5,9 +5,32 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Apr 2022 03:14:44 +0000</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2022 03:14:44 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Apr 2022 03:18:31 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2022 03:18:31 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Congratulations to Dhruva Patil and Jason Garcia!</title>
+        <description>&lt;p&gt;Congratulations to Dr. &lt;strong&gt;Dhruva Patil&lt;/strong&gt; for defending his Ph.D. dissertation and to &lt;strong&gt;Jason Garcia&lt;/strong&gt; for defending his Master’s thesis!&lt;/p&gt;
+
+&lt;p&gt;Dhruva’s dissertation is entitled &lt;em&gt;Something Is Fishy! How ambiguous language affects generalization of video action recognition networks&lt;/em&gt;. In this research, he analyses weaknesses in the label set of the popular Something-Something video action recognition dataset, and discusses how the one-hot encoding of class labels in computer vision tasks may effectively be hamstringing deep neural networks in vision tasks.  Dhruva will be starting a research position at Amazon in June.&lt;/p&gt;
+
+&lt;p&gt;Jason’s thesis is entitled &lt;em&gt;Applications of Topological Data Analysis to Natural Language Processing and Computer Vision&lt;/em&gt;. Jason applies techniques of topological data analysis, a mathematical technique for exploring the “shape” of data, to problems in NLP and computer vision, including a novel analysis of the topological properties of the encoder layers in BERT.  Jason will be continuing at CSU for a Ph.D. in Math.&lt;/p&gt;
+
+&lt;p&gt;Congratulations to Dhruva and Jason!  It’s been a pleasure to work with you and to see you acheive your degrees!&lt;/p&gt;
+
+&lt;p&gt;(X-posted on &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/2022/04/11/congratulations-dhruva-patil-jason-garcia.html&quot;&gt;nikhilkrishnaswamy.com&lt;/a&gt;)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Apr 2022 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai//congratulations-dhruva-patil-jason-garcia</link>
+        <guid isPermaLink="true">https://www.signallab.ai//congratulations-dhruva-patil-jason-garcia</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        
+      </item>
     
       <item>
         <title>Congrats to M.S. Project Presenters</title>
@@ -28,29 +51,6 @@
         <pubDate>Sat, 30 Oct 2021 07:00:00 +0000</pubDate>
         <link>https://www.signallab.ai//ms-project-posters</link>
         <guid isPermaLink="true">https://www.signallab.ai//ms-project-posters</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Congratulations to Dhruva Patil and Jason Garcia!</title>
-        <description>&lt;p&gt;Congratulations to Dr. &lt;strong&gt;Dhruva Patil&lt;/strong&gt; for defending his Ph.D. dissertation and to &lt;strong&gt;Jason Garcia&lt;/strong&gt; for defending his Master’s thesis!&lt;/p&gt;
-
-&lt;p&gt;Dhruva’s dissertation is entitled &lt;em&gt;Something Is Fishy! How ambiguous language affects generalization of video action recognition networks&lt;/em&gt;. In this research, he analyses weaknesses in the label set of the popular Something-Something video action recognition dataset, and discusses how the one-hot encoding of class labels in computer vision tasks may effectively be hamstringing deep neural networks in vision tasks.  Dhruva will be starting a research position at Amazon in June.&lt;/p&gt;
-
-&lt;p&gt;Jason’s thesis is entitled &lt;em&gt;Applications of Topological Data Analysis to Natural Language Processing and Computer Vision&lt;/em&gt;. Jason applies techniques of topological data analysis, a mathematical technique for exploring the “shape” of data, to problems in NLP and computer vision, including a novel analysis of the topological properties of the encoder layers in BERT.  Jason will be continuing at CSU for a Ph.D. in Math.&lt;/p&gt;
-
-&lt;p&gt;Congratulations to Dhruva and Jason!  It’s been a pleasure to work with you and to see you acheive your degrees!&lt;/p&gt;
-
-&lt;p&gt;(X-posted on &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/2022/04/11/congratulations-dhruva-patil-jason-garcia.html&quot;&gt;nikhilkrishnaswamy.com&lt;/a&gt;)&lt;/p&gt;
-</description>
-        <pubDate>Sun, 11 Apr 2021 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai//congratulations-dhruva-patil-jason-garcia</link>
-        <guid isPermaLink="true">https://www.signallab.ai//congratulations-dhruva-patil-jason-garcia</guid>
         
         <category>lab</category>
         
