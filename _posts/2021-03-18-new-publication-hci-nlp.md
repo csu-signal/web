@@ -2,7 +2,7 @@
 layout: post
 title: New Publication at HCI+NLP Workshop @ EACL
 date: 2021-03-18 07:00:00
-tags: lab news
+tags: lab news pubs
 author: nkrishna
 ---
 
