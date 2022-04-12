@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Congratulations to Dhruva Patil and Jason Garcia!
-date: 2021-04-11 07:00:00
+date: 2022-04-11 07:00:00
 tags: lab news
 author: nkrishna
 ---
