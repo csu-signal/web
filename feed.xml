@@ -5,9 +5,41 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Apr 2022 03:20:20 +0000</pubDate>
-    <lastBuildDate>Mon, 18 Apr 2022 03:20:20 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Apr 2022 03:22:49 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Apr 2022 03:22:49 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>3 New Publications</title>
+        <description>&lt;p&gt;Three upcoming publications:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;The VoxWorld Platform for Multimodal Embodied Agents&lt;/em&gt; will be a poster and demo, and published in the proceedings of the Language Resources and Evaluation Conference (LREC) in Marseille, France, in June.  This publication is a 5-year retrospective on the VoxWorld platform and presents 3 of the agents developed with it.  This paper was written with multiple collaborators including future SIGNAL Lab Ph.D. student Brittany Cates.
+** Krishnaswamy, N., Pickard, W., Cates, B., Blanchard, N., and Pustejovsky, J. (2022). &lt;em&gt;The VoxWorld Platform for Multimodal Embodied Agents&lt;/em&gt; In &lt;em&gt;Language Resources and Evaluation Conference&lt;/em&gt; (LREC).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Exploiting Embodied Simulation to Detect Novel Object Classes Through Interaction&lt;/em&gt; will be a poster at the Annual Meeting of the Cognitive Science Society in Toronto, ON, Canada, in July.  This publication presents early zero-shot transfer learning work based on object interactions with SIGNAL Lab Ph.D. student Sadaf Ghaffari.
+** Krishnaswamy, N., and Ghaffari, S. (2022). &lt;em&gt;Exploiting Embodied Simulation to Detect Novel Object Classes Through Interaction&lt;/em&gt; In &lt;em&gt;Annual Meeting of the Cognitive Science Society&lt;/em&gt; (CogSci).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;A deep dive into microphones for recording collaborative group work&lt;/em&gt; will be a poster and short paper at the International Conference on Educational Data Mining (EDM) in Durham, England, in July.  In this paper we examine the effects of various audio hardware stacks on downstream educational data mining tasks such as speech recognition.  This paper was written with many collaborators at CSU including future SIGNAL Lab Ph.D. student Mariah Bradford.
+** Bradford, M., Hansen, P., Beveridge, R., Krishnaswamy, N., and Blanchard, N. (2022). &lt;em&gt;A deep dive into microphones for recording collaborative group work&lt;/em&gt;. In &lt;em&gt;International Conference on Educational Data Mining&lt;/em&gt; (EDM).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 17 Apr 2022 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai//3-new-publications</link>
+        <guid isPermaLink="true">https://www.signallab.ai//3-new-publications</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        <category>pubs</category>
+        
+        
+      </item>
     
       <item>
         <title>Congratulations to Dhruva Patil and Jason Garcia!</title>
