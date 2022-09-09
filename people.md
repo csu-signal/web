@@ -77,8 +77,8 @@ img {
   <hr>
   
   <h2>Honorary</h2>
-  <p align="left">
     (people who I never signed a piece of paper for but who I worked with closely)
+  <p align="left">
   {% for person in site.data.honorary %}
     <strong>{{ person[1].name }}</strong> ({{ person[1].degree }}, {{ person[1].year }}) - {{ person[1].next }}
   {% endfor %}
