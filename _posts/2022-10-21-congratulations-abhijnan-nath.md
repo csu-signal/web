@@ -14,6 +14,6 @@ Congratulations to Abhijnan!  It's been a pleasure to work with you and I look f
 
 Here we are after the defense with Abhijnan's external committee member, Prof. Emily King from Mathematics.  Not shown: Prof. Nate Blanchard, who was out of town and attended remotely.  Getting a student to photoshop him in.
 
-![Abhijnan Nath MS Thesis Defense](../../../assets/images/posts/abhijnan-defense.jpg?raw=true "Abhijnan Nath MS Thesis")
+![Abhijnan Nath MS Thesis Defense](../assets/images/fall22/abhijnan-defense.jpg?raw=true "Abhijnan Nath MS Thesis")
 
 (X-posted on [nikhilkrishnaswamy.com](https://www.nikhilkrishnaswamy.com/2022/10/21/congratulations-abhijnan-nath.html))
