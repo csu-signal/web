@@ -8,7 +8,7 @@ author: nkrishna
 
 Congratulations to **Abhijnan Nath** for defending his Master's thesis!
 
-Abhijnan's thesis is entitled *Linear Mappings: Semantic Transfer from Transformer Models for Cognate Detection and Coreference Resolution*. Abhijnan argues that high-dimensional vector semantic information can be transfered between Transformer-based language models using a simple affine transformation technique that draws upon previous insights from vision researchers from CSU. He present evidence from two distinct linguistic tasks: bilingual cognate detection and cross-document coreference eresolution. Part of this research appears in our VarDial workship paper from COLING this year and part of it was funded by the DARPA AIDA program.  Abhijnan will be continuing in the SIGNAL Lab for a Ph.D. starting in Fall 2022!
+Abhijnan's thesis is entitled *Linear Mappings: Semantic Transfer from Transformer Models for Cognate Detection and Coreference Resolution*. Abhijnan argues that high-dimensional vector semantic information can be transfered between Transformer-based language models using a simple affine transformation technique that draws upon previous insights from vision researchers from CSU. He presents evidence from two distinct linguistic tasks: bilingual cognate detection and cross-document coreference eresolution. Part of this research appears in our VarDial workship paper from COLING this year and part of it was funded by the DARPA AIDA program.  Abhijnan will be continuing in the SIGNAL Lab for a Ph.D. starting in Fall 2022!
 
 Congratulations to Abhijnan!  It's been a pleasure to work with you and I look forward to continuing our collaboration!
 
