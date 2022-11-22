@@ -5,9 +5,32 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Nov 2022 02:39:14 +0000</pubDate>
-    <lastBuildDate>Sat, 12 Nov 2022 02:39:14 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Nov 2022 04:59:17 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Nov 2022 04:59:17 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>New Paper at ACS</title>
+        <description>&lt;p&gt;SIGNAL Lab Ph.D. student Sadaf Ghaffari presented &lt;em&gt;Detecting and Accommodating Novel Types and Concepts in an Embodied Simulation Environment&lt;/em&gt; at the Annual Conference on Advances in Cognitive Systems at George Mason University in Arlington, VA.  In this paper, we explore techniques to imbue neural networks with the capability to expand to accommodate new concepts and to detect when the neural model itself is inadequate to the environment, relying on information extracted from an embodied simulation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Citations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ghaffari, S. and Krishnaswamy, N. (2022). &lt;em&gt;Detecting and Accommodating Novel Types and Concepts in an Embodied Simulation Environment.&lt;/em&gt; In &lt;em&gt;Annual Conference on Advances in Cognitive Systems (ACS)&lt;/em&gt;. Cognitive Systems Foundation.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 21 Nov 2022 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai//new-paper-at-acs-2022</link>
+        <guid isPermaLink="true">https://www.signallab.ai//new-paper-at-acs-2022</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        <category>pubs</category>
+        
+        
+      </item>
     
       <item>
         <title>Congrats to Fall '22 M.S. Project Presenters</title>
@@ -264,29 +287,6 @@
         <category>lab</category>
         
         <category>news</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Neurosymbolic AI at ACS 2020</title>
-        <description>&lt;p&gt;Today I presented a long paper, “Neurosymbolic AI for Situated Language Understanding” at the Advances in Cognitive Systems conference, held virtually and hosted by the Palo Alto Research Center.&lt;/p&gt;
-
-&lt;p&gt;This was third of three papers submitted as a postdoc and presented as a professor, and I’m really very proud of this one, as it’s a detailed yet concise summary of effectively the last five years of work at Brandeis in developing situated grounding and embodied AI under the Communicating With Computers program, and nicely lays out most of my graduate and postdoctoral career.&lt;/p&gt;
-
-&lt;p&gt;The work discussed in this paper forms the foundations of the work in the SIGNAL Lab, and I hope that neurosymbolic AI is just getting started, and provides a number of opportunities for groundbreaking research that are barely on the horizon for the AI and cognitive systems communities.  You can find the paper &lt;a href=&quot;assets/docs/pdfs/ACS-2020.pdf&quot;&gt;here&lt;/a&gt;, the slides &lt;a href=&quot;assets/docs/slides/ACS-2020.pdf&quot;&gt;here&lt;/a&gt;, and a video of the talk &lt;a href=&quot;https://www.youtube.com/watch?v=IwIvn64mT3U&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;(X-posted on &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/2020/08/10/neurosymbolic-ai-at-acs-2020.html&quot;&gt;nikhilkrishnaswamy.com&lt;/a&gt;)&lt;/p&gt;
-</description>
-        <pubDate>Mon, 10 Aug 2020 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai//neurosymbolic-ai-at-acs-2020</link>
-        <guid isPermaLink="true">https://www.signallab.ai//neurosymbolic-ai-at-acs-2020</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
-        
-        <category>pubs</category>
         
         
       </item>
