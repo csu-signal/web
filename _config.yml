@@ -6,7 +6,7 @@ cover: assets/images/bg.png
 logo: assets/images/logo.png
 favicon: assets/images/logo.png
 footerimg: assets/images/csu.png
-baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://www.signallab.ai/" # the base hostname & protocol for your site
 
 pagination:
