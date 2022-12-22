@@ -1,13 +1,4 @@
-abhijnannath:
-  username: abhijnannath
-  name: Abhijnan Nath
-  email: abhijnan [dot] nath [at] colostate [dot] edu
-  location: Fort Collins, CO
-  url_full: https://www.linkedin.com/in/abhijnan-nath-737727169
-  url: www.linkedin.com/in/abhijnan-nath-737727169
-  bio: Abhijnan works primarily in AI for natural language understanding (NLU) and computational semantics, spanning topics like coreference resolution and cognate detection, transformer-based language models, and their downstream applications with a drive to extend such research to low-resource languages. He holds an MSc. in Physics (minor in Computer Science) from Birla Institute of Technology and Science (BITS), Pilani, India and studied Rawlsian Political theory at JNU, New Delhi. In the past, he has collaborated with the Jackson Lab, Stanford University, and the Natural Resource Ecology Lab, CSU to build their atmospheric N20 prediction pipeline using time-series data exploration. He is a big fan of Pavarotti, Bach, and Dream Theater and loves to work on his musical projects when he is not dealing with CUDA tensors!
-  assets: assets/images/fall22/nath.png
-  
+
 aniket24:
   username: aniket24
   name: Aniket Tomar
