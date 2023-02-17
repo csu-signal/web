@@ -21,12 +21,12 @@ anju:
 blcates:
   username: blcates
   name: Brittany Cates
-  email:
+  email: brittany [dot] cates [at] colostate [dot] edu
   location: Loveland, CO
-  url_full:
-  url:
-  bio: Ph.D. Student in Computer Science at Colorado State University
-  assets:
+  url_full: https://blcates.github.io
+  url: blcates.github.io
+  bio: Brittany is a Ph.D. student in Computer Science at Colorado State University, with a focus in Human-Centered Artificial Intelligence. With her prior education in Psychology, she is fascinated by the ways in which the cognitive science intersects with AI and user experience. On the rare occasions she finds herself away from a computer screen, she enjoys reading, gardening, and art.
+  assets: assets/images/spring23/cates.png
   
 benkhebour:
   username: benkhebour
