@@ -5,9 +5,36 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Mar 2023 15:38:12 +0000</pubDate>
-    <lastBuildDate>Tue, 07 Mar 2023 15:38:12 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Mar 2023 17:11:21 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Mar 2023 17:11:21 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Congratulations to Abhijnan Nath!</title>
+        <description>&lt;p&gt;Congratulations to &lt;strong&gt;Aniket Tomar&lt;/strong&gt; on successfully defending his Master’s thesis!&lt;/p&gt;
+
+&lt;p&gt;Abhijnan’s thesis is entitled &lt;em&gt;Exploring Correspondences Between Gibsonian and Telic Affordances for Object Grasping using 3D Geometry&lt;/em&gt;. This is a really interesting work in that Aniket took what was initially a negative result and probed it enough to draw a robust conclusion about the representation of Gibsonian and telic affordaces in 3D data and the difficulty of embodied tasks for even specialized machine learning models. Part of this work appeared at our AREA workshop paper at ESSLLI last summer.&lt;/p&gt;
+
+&lt;p&gt;Congratulations to Aniket!  It’s been a pleasure working with you and I look forward to seeing what you do next!&lt;/p&gt;
+
+&lt;p&gt;Here we are after the defense with Aniket’s external committee: myself, Prof. Nathaniel Blanchard and Prof. Ben Clegg from Psychology.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/spring23/aniket-defense.jpg?raw=true&quot; alt=&quot;Aniket Tomar MS Thesis Defense&quot; title=&quot;Aniket Tomar MS Thesis&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(X-posted on &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/2023/03/06/congratulations-aniket-tomar.html&quot;&gt;nikhilkrishnaswamy.com&lt;/a&gt;)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Mar 2023 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai/https://www.signallab.ai//congratulations-aniket-tomar</link>
+        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//congratulations-aniket-tomar</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        <category>grads</category>
+        
+        
+      </item>
     
       <item>
         <title>New Paper at ACS</title>
@@ -270,23 +297,6 @@
         <category>pubs</category>
         
         <category>awards</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>SIGNAL Lab Colloquium Video</title>
-        <description>&lt;p&gt;Traditionally, computer science faculty at CSU give rapid-fire research presentations at the beginning of the fall semester to present themselves to students and discuss research opportunities.  Due to the Covid situation pushing everything online, the seminar format is being flipped this year, with prerecorded videos being offered followed by Q+A during the scheduled session time.  I took the opportunity to create a 5-minute video overview of some of the SIGNAL Lab’s major research thrusts, complete with some video demonstrations.&lt;/p&gt;
-
-&lt;p&gt;You can watch the video &lt;a href=&quot;http://nkrishna.powweb.com/video/BMAC-short.mp4&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 27 Aug 2020 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai/https://www.signallab.ai//signal-lab-colloquium-video</link>
-        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//signal-lab-colloquium-video</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
         
         
       </item>
