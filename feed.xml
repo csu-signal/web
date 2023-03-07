@@ -5,12 +5,12 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Mar 2023 17:11:21 +0000</pubDate>
-    <lastBuildDate>Tue, 07 Mar 2023 17:11:21 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Mar 2023 17:15:13 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Mar 2023 17:15:13 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Congratulations to Abhijnan Nath!</title>
+        <title>Congratulations to Aniket Tomar!</title>
         <description>&lt;p&gt;Congratulations to &lt;strong&gt;Aniket Tomar&lt;/strong&gt; on successfully defending his Master’s thesis!&lt;/p&gt;
 
 &lt;p&gt;Abhijnan’s thesis is entitled &lt;em&gt;Exploring Correspondences Between Gibsonian and Telic Affordances for Object Grasping using 3D Geometry&lt;/em&gt;. This is a really interesting work in that Aniket took what was initially a negative result and probed it enough to draw a robust conclusion about the representation of Gibsonian and telic affordaces in 3D data and the difficulty of embodied tasks for even specialized machine learning models. Part of this work appeared at our AREA workshop paper at ESSLLI last summer.&lt;/p&gt;
