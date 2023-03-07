@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations to Abhijnan Nath!
+title: Congratulations to Aniket Tomar!
 date: 2023-03-06 07:00:00
 tags: lab news grads
 author: nkrishna
