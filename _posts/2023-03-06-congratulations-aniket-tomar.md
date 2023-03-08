@@ -12,7 +12,7 @@ Aniket's thesis is entitled *Exploring Correspondences Between Gibsonian and Tel
 
 Congratulations to Aniket!  It's been a pleasure working with you and I look forward to seeing what you do next!
 
-Here we are after the defense with Aniket's external committee: myself, Prof. Nathaniel Blanchard and Prof. Ben Clegg from Psychology.
+Here we are after the defense with Aniket's committee: myself, Prof. Nathaniel Blanchard and Prof. Ben Clegg from Psychology.
 
 ![Aniket Tomar MS Thesis Defense](../assets/images/spring23/aniket-defense.jpg?raw=true "Aniket Tomar MS Thesis")
 
