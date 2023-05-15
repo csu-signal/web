@@ -18,7 +18,7 @@ Mariah and Ibrahim also contributed to *How Good is Automatic Segmentation as a 
 
 Sadaf Ghaffari's paper *Grounding and Distinguishing Conceptual Vocabulary Through Similarity Learning in Embodied Simulations* was accepted for publication at the IWCS 2023 main conference in Nancy, France!
 
-And finally, Abhijnan Nath and Mannan's paper *AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese* was accepted for publication in Findings of ACL 2023, the companion volume to the ACL 2023 conference!  Abhijnan was also second author on *2\*n is better than n^2: Decomposing Event Coreference Resolution into Two Tractable Problems*, a collaboration with members of the BoulderNLP group, also accepted to Finding of ACL 2023.  ACL 2023 will be held in Toronto, ON, Canada, in June.
+And finally, Abhijnan Nath and Mannan's paper *AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese* was accepted for publication in Findings of ACL 2023, the companion volume to the ACL 2023 conference!  Abhijnan was also second author on *2\*n is better than n^2: Decomposing Event Coreference Resolution into Two Tractable Problems*, a collaboration with members of the BoulderNLP group, also accepted to Finding of ACL 2023.  ACL 2023 will be held in Toronto, ON, Canada, in July.
 
 Look out for these papers, and more to come soon.
 
