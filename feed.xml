@@ -5,9 +5,66 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Mar 2023 03:04:46 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Mar 2023 03:04:46 +0000</lastBuildDate>
+    <pubDate>Mon, 15 May 2023 02:28:32 +0000</pubDate>
+    <lastBuildDate>Mon, 15 May 2023 02:28:32 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Spring 2023 Publication Round Up</title>
+        <description>&lt;p&gt;At the end of the semester, time to take stock of lab activity:&lt;/p&gt;
+
+&lt;p&gt;Hannah VanderHoeven’s paper &lt;em&gt;Robust Motion Recognition using Gesture Phase Annotation&lt;/em&gt; was accepted for publication at HCII 2023 in Copenhagen, Denmark in July!&lt;/p&gt;
+
+&lt;p&gt;Also at HCII will be &lt;em&gt;Intentional Microgesture Recognition for Extended Human-Computer Interaction&lt;/em&gt;, with Sheikh Mannan as contributing author!&lt;/p&gt;
+
+&lt;p&gt;Mariah Bradford and Ibrahim Khebour’s paper &lt;em&gt;Automatic Detection of Collaborative States in Small Groups Using Multimodal Features&lt;/em&gt; was accepted for publication at AIEd 2023 in Tokyo, Japan, also in July!&lt;/p&gt;
+
+&lt;p&gt;Mariah and Ibrahim also contributed to &lt;em&gt;How Good is Automatic Segmentation as a Multimodal Discourse Annotation Aid?&lt;/em&gt;, accepted for presentation at the Interoperable Semantic Annotation workshop at IWCS in June.&lt;/p&gt;
+
+&lt;p&gt;Sadaf Ghaffari’s paper &lt;em&gt;Grounding and Distinguishing Conceptual Vocabulary Through Similarity Learning in Embodied Simulations&lt;/em&gt; was accepted for publication at the IWCS 2023 main conference in Nancy, France!&lt;/p&gt;
+
+&lt;p&gt;And finally, Abhijnan Nath and Sheikh Mannan’s paper &lt;em&gt;AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese&lt;/em&gt; was accepted for publication in Findings of ACL 2023, the companion volume to the ACL 2023 conference!  Abhijnan was also second author on &lt;em&gt;2*n is better than n^2: Decomposing Event Coreference Resolution into Two Tractable Problems&lt;/em&gt;, also accepted to Finding of ACL 2023.  ACL 2023 will be held in Toronto, ON, Canada, in June.&lt;/p&gt;
+
+&lt;p&gt;Look out for these papers, and more to come soon.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Citations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;VanderHoeven, H., Blanchard, N., and Krishnaswamy, N. (2023). &lt;em&gt;Robust Motion Recognition using Gesture Phase Annotation.&lt;/em&gt; In &lt;em&gt;International Conference on Human-Computer Interaction (HCII)&lt;/em&gt;. Springer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kandoi, C., Jung, C., Mannan, S., VanderHoeven, H., Meisman, Q., Krishnaswamy, N., and Blanchard, N. (2023). &lt;em&gt;Intentional Microgesture Recognition for Extended Human-Computer Interaction.&lt;/em&gt; In &lt;em&gt;International Conference on Human-Computer Interaction (HCII)&lt;/em&gt;. Springer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bradford, M., Khebour, I., Blanchard, N., and Krishnaswamy, N. (2023). &lt;em&gt;Automatic Detection of Collaborative States in Small Groups Using Multimodal Features.&lt;/em&gt; In &lt;em&gt;International Conference on Artificial Intelligence in Education (AIEd)&lt;/em&gt;. International AIEd Society.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Terpstra, C., Khebour, I., Bradford, M., Wisniewski, B., Krishnaswamy, N., and Blanchard, N. (2023). &lt;em&gt;How Good is Automatic Segmentation as a Multimodal Discourse Annotation Aid?&lt;/em&gt; In &lt;em&gt;International Workshop on Semantic Annotation (ISA)&lt;/em&gt;. ACL.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ghaffari, S. and Krishnaswamy, N. (2023). &lt;em&gt;Grounding and Distinguishing Conceptual Vocabulary Through Similarity Learning in Embodied Simulations.&lt;/em&gt; In &lt;em&gt;International Conference on Computational Semantics (IWCS)&lt;/em&gt;. ACL.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Nath, A., Mannan, S., and Krishnaswamy, N. (2023). &lt;em&gt;AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese.&lt;/em&gt; In &lt;em&gt;Findings of the Association for Computational Linguistics (Findings of ACL)&lt;/em&gt;. ACL.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ahmed, S. R., Nath, A., Martin, J. H., and Krishnaswamy, N. (2023). &lt;em&gt;2*n is better than n^2: Decomposing Event Coreference Resolution into Two Tractable Problems.&lt;/em&gt; In &lt;em&gt;Findings of the Association for Computational Linguistics (Findings of ACL)&lt;/em&gt;. ACL.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 14 May 2023 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai/https://www.signallab.ai//spring-2023-publication-roundup</link>
+        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//spring-2023-publication-roundup</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        <category>pubs</category>
+        
+        
+      </item>
     
       <item>
         <title>Congratulations to Aniket Tomar!</title>
@@ -274,29 +331,6 @@
         <category>news</category>
         
         <category>pubs</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Best Demo at ICAT-EGVE 2020</title>
-        <description>&lt;p&gt;Our demo, &lt;em&gt;Situational Awareness in Human Computer Interaction: Diana’s World&lt;/em&gt; has won the &lt;a href=&quot;https://icat-egve-2020.org/awards/&quot;&gt;best demo award&lt;/a&gt; at ICAT-EGVE (International Conference on Artificial Reality and Telexistence &amp;amp; Eurographics Symposium on Virtual Environments), an ACM conference!  Our paper is &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/assets/docs/pdfs/ICAT-EGVE-2020.pdf&quot;&gt;here&lt;/a&gt; and our demo video can be viewed &lt;a href=&quot;https://www.youtube.com/watch?v=0b2_PWS_QZ4&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The demo was presented on December 4th at the virtual conference.&lt;/p&gt;
-
-&lt;p&gt;(X-posted on &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/2020/12/08/best-demo-icat-egve-2020.html&quot;&gt;nikhilkrishnaswamy.com&lt;/a&gt;)&lt;/p&gt;
-</description>
-        <pubDate>Tue, 08 Dec 2020 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai/https://www.signallab.ai//best-demo-icat-egve-2020</link>
-        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//best-demo-icat-egve-2020</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
-        
-        <category>pubs</category>
-        
-        <category>awards</category>
         
         
       </item>
