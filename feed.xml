@@ -5,9 +5,28 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Aug 2023 03:10:59 +0000</pubDate>
-    <lastBuildDate>Thu, 31 Aug 2023 03:10:59 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Sep 2023 02:06:43 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Sep 2023 02:06:43 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>RETTL Grant Awarded</title>
+        <description>&lt;p&gt;Pleased to announce that our grant proposal to NSF’s RETTL program, &lt;em&gt;An AI Tutoring System for Pollinator Conservation Community Science Training&lt;/em&gt;, has been awarded, for $849,890!&lt;/p&gt;
+
+&lt;p&gt;This project is led by my colleague Dr. Sarath Sreedharan and includes Dr. Nate Blanchard of CSU’s Vision Lab and Dr. Jill Zarestky in the CSU School of Education.  In this project we will develop AI-powered tools for citizen science, focusing on identification of different pollinator species.  Let’s get them bees!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Sep 2023 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai/https://www.signallab.ai//rettl-grant-awarded</link>
+        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//rettl-grant-awarded</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        <category>grants</category>
+        
+        
+      </item>
     
       <item>
         <title>Spring 2023 Publication Round Up</title>
@@ -312,25 +331,6 @@
         <category>news</category>
         
         <category>grads</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>New Publication at HCI+NLP Workshop @ EACL</title>
-        <description>&lt;p&gt;SIGNAL Lab Ph.D. student Nada Alalyani and I have a new publication that will be appearing at the &lt;a href=&quot;https://sites.google.com/view/hciandnlp/home?authuser=0&quot;&gt;Bridging HCI and NLP&lt;/a&gt; workshop at the EACL conference in April!  &lt;em&gt;Embodied Multimodal Agents to Bridge the Understanding Gap&lt;/em&gt; argues that embodied multimodal agents such as virtual avatars and robots play an important role in moving natural language processing toward “deep understanding,” and a demonstrable retrieval of communicative intent from an utterance, a la the definition propounded by Emily Bender and Alexander Koller in their “&lt;a href=&quot;https://www.aclweb.org/anthology/2020.acl-main.463.pdf&quot;&gt;Climbing towards NLU&lt;/a&gt;” paper from last year’s ACL.  We discuss the role of multimodal conversational systems in computationally modeling contextually-grounded communication, and discuss ongoing experiments in multimodal referring expression interpretation and generation as an illustrative use case, using CSU/Brandeis/UF’s very own &lt;a href=&quot;http://www.embodiedhci.net&quot;&gt;Diana&lt;/a&gt; agent.&lt;/p&gt;
-
-&lt;p&gt;The HCI+NLP workshop will be held in conjunction with the EACL conference, April 20th.  The conference will be held virtually (may we banish COVID and return to in-person events soon!).  Before the proceedings are released, the paper can be viewed &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/assets/docs/pdfs/HCI+NLP-2021.pdf&quot;&gt;here&lt;/a&gt; on my personal website, and will be appearing on arXiv soon.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 18 Mar 2021 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai/https://www.signallab.ai//new-publication-hci-nlp</link>
-        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//new-publication-hci-nlp</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
-        
-        <category>pubs</category>
         
         
       </item>
