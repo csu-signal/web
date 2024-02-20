@@ -20,9 +20,9 @@ The conference will be held in Turin, Italy, in late May. Congratulations to SIG
 
 Additionally, Sheikh Mannan and Sadaf Ghaffari have a publication each at AAAI Spring Symposia, to be held at Stanford University in March:
 
-Ghaffari, S. and Krishnaswamy, N. (2024). Exploring Failure Cases in Multimodal Reasoning About Physical Dynamics. In *AAAI Spring Symposium: Empowering Machine Learning and Large Language Models with Domain and Commonsense Knowledge (MAKE).* AAAI.
+* Ghaffari, S. and Krishnaswamy, N. (2024). Exploring Failure Cases in Multimodal Reasoning About Physical Dynamics. In *AAAI Spring Symposium: Empowering Machine Learning and Large Language Models with Domain and Commonsense Knowledge (MAKE).* AAAI.
 
-Mannan, S., Vimal, V. P., DiZio, P., and Krishnaswamy, N. (2024). Embodying Human-Like Modes of Balance Control Through Human-in-the-Loop Dyadic Learning. In *AAAI Spring Symposium: Symposium on Human-Like Learning (HLL).* AAAI.
+* Mannan, S., Vimal, V. P., DiZio, P., and Krishnaswamy, N. (2024). Embodying Human-Like Modes of Balance Control Through Human-in-the-Loop Dyadic Learning. In *AAAI Spring Symposium: Symposium on Human-Like Learning (HLL).* AAAI.
 (In collaboration with Brandeis University)
 
 Last but not least, another hat trick (+1 bonus poster) at the International Conference on Human-Computer Interaction, to be held in Washington, DC, in June/July:
