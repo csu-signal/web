@@ -5,9 +5,77 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Feb 2024 19:18:57 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Feb 2024 19:18:57 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Feb 2024 19:22:51 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Feb 2024 19:22:51 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>LREC-COLING Hat Trick and Other Stories</title>
+        <description>&lt;p&gt;We are delighted to be 3 for 3 on submissions to LREC-COLING 2024, the first Joint International Conference on Computational Linguistics and Language Resources and Evaluation! The accepted papers are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Nath, A., Jamil, H., Ahmed, S. R., Baker, G., Ghosh, R., Martin, J. H., Blanchard, N., and Krishnaswamy, N. (2024). Multimodal Cross-Document Event Coreference Resolution Using Linear Semantic Transfer and Mixed-Modality Ensembles. In &lt;em&gt;Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING).&lt;/em&gt; ACL.
+(In collaboration with the University of Colorado Boulder.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Khebour, I., Lai, K., Bradford, M., Zhu, Y., Brutti, R., Tam, C., Tu, J., Ibarra, B., Blanchard, N., Krishnaswamy, N., and Pustejovsky, J. (2024). Common Ground Tracking in Multimodal Dialogue. In &lt;em&gt;Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING).&lt;/em&gt; ACL.
+(In collaboration with Brandeis University.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Manafi, S. and Krishnaswamy, N. (2024). Cross-Lingual Transfer Robustness to Lower-Resource Languages on Adversarial Datasets. In &lt;em&gt;Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING).&lt;/em&gt; ACL.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The conference will be held in Turin, Italy, in late May. Congratulations to SIGNAL Lab graduate students Abhijnan, Ibrahim, Mariah, and Shadi (and all affiliated students/external collaborators)!&lt;/p&gt;
+
+&lt;p&gt;Additionally, Sheikh Mannan and Sadaf Ghaffari have a publication each at AAAI Spring Symposia, to be held at Stanford University in March:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ghaffari, S. and Krishnaswamy, N. (2024). Exploring Failure Cases in Multimodal Reasoning About Physical Dynamics. In &lt;em&gt;AAAI Spring Symposium: Empowering Machine Learning and Large Language Models with Domain and Commonsense Knowledge (MAKE).&lt;/em&gt; AAAI.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mannan, S., Vimal, V. P., DiZio, P., and Krishnaswamy, N. (2024). Embodying Human-Like Modes of Balance Control Through Human-in-the-Loop Dyadic Learning. In &lt;em&gt;AAAI Spring Symposium: Symposium on Human-Like Learning (HLL).&lt;/em&gt; AAAI.
+(In collaboration with Brandeis University)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Last but not least, another hat trick (+1 bonus poster) at the International Conference on Human-Computer Interaction, to be held in Washington, DC, in June/July:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;VanderHoeven, H., Bradford, M., Jung, C., Khebour, I., Lai, K., Pustejovsky, J., Krishnaswamy, N., and Blanchard, N. (2024). Multimodal Design for Interactive Collaborative Problem Solving Support. In &lt;em&gt;International Conference on Human-Computer Interaction (HCII).&lt;/em&gt; Springer.
+(In collaboration with Brandeis University)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Zhu, Y., VanderHoeven, H., Lai, K., Bradford, M., Tam, C., Khebour, I., Brutti, R., Krishnaswamy, N., and Pustejovsky, J. (2024). Modeling Theory of Mind in Multimodal HCI. In &lt;em&gt;International Conference on Human-Computer Interaction (HCII).&lt;/em&gt; Springer.
+(In collaboration with Brandeis University)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;VanderHoeven, H., Blanchard, N., and Krishnaswamy, N. (2024). Point Target Detection for Multimodal Communication. In &lt;em&gt;International Conference on Human-Computer Interaction (HCII).&lt;/em&gt; Springer.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Congratulations to Hannah (x3), Mariah, and Ibrahim again!&lt;/p&gt;
+
+&lt;p&gt;And the poster:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Seefried, E., Bradford, M., Aich, S., Siebert, C., Krishnaswamy, N., and Blanchard, N. (2024). Learning Foreign Language Vocabulary Through Task-Based Virtual Reality Immersion. In &lt;em&gt;International Conference on Human-Computer Interaction (HCII).&lt;/em&gt; Springer.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 20 Feb 2024 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai/https://www.signallab.ai//coling-hat-trick-other-stories</link>
+        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//coling-hat-trick-other-stories</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        <category>pubs</category>
+        
+        
+      </item>
     
       <item>
         <title>RETTL Grant Awarded</title>
@@ -296,35 +364,6 @@
         <pubDate>Mon, 11 Apr 2022 07:00:00 +0000</pubDate>
         <link>https://www.signallab.ai/https://www.signallab.ai//congratulations-dhruva-patil-jason-garcia</link>
         <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//congratulations-dhruva-patil-jason-garcia</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
-        
-        <category>grads</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Congrats to M.S. Project Presenters</title>
-        <description>&lt;p&gt;Congratulations to M.S. students Shivani Mogullapalli, Shriram Gaddam, and Mohit Kumar Katragadda who presented their M.S. Project posters at the CSU CS Graduate Research Symposium yesterday!&lt;/p&gt;
-
-&lt;p&gt;CSU Computer Science has a non-thesis research initiation option for master’s students wherein the student must conduct a research project under the guidance of a faculty member and present a poster on their project in their last semester.  Very proud of the work these three have done this semester and I can wait to see them wrap up the work and graduate!&lt;/p&gt;
-
-&lt;p&gt;Mohit’s project: &lt;strong&gt;Distributed Training of 3D Object Recognition Using Point Clouds&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Shivani’s project: &lt;strong&gt;Mapping Between Face Recogniton Feature Vector from Various CNN Models&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Shriram’s project: &lt;strong&gt;Exploring Embedding Spaces in Transformers by Mapping Feature Vectors&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Some pics from yesterday’s event are below:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/fall21/poster-shriram.jpg?raw=true&quot; alt=&quot;Exploring Embedding Spaces in Transformers by Mapping Feature Vectors&quot; title=&quot;Exploring Embedding Spaces in Transformers by Mapping Feature Vectors&quot; /&gt;&lt;img src=&quot;../assets/images/fall21/poster-mohit.jpg?raw=true&quot; alt=&quot;Distributed Training of 3D Object Recognition Using Point Clouds&quot; title=&quot;Distributed Training of 3D Object Recognition Using Point Clouds&quot; /&gt;&lt;img src=&quot;../assets/images/fall21/poster-shivani.jpg?raw=true&quot; alt=&quot;Mapping Between Face Recogniton Feature Vector from Various CNN Models&quot; title=&quot;Mapping Between Face Recogniton Feature Vector from Various CNN Models&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 30 Oct 2021 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai/https://www.signallab.ai//ms-project-posters</link>
-        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//ms-project-posters</guid>
         
         <category>lab</category>
         
