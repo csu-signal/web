@@ -23,15 +23,15 @@ Additionally, Sheikh Mannan and Sadaf Ghaffari have a publication each at AAAI S
 * Ghaffari, S. and Krishnaswamy, N. (2024). Exploring Failure Cases in Multimodal Reasoning About Physical Dynamics. In *AAAI Spring Symposium: Empowering Machine Learning and Large Language Models with Domain and Commonsense Knowledge (MAKE).* AAAI.
 
 * Mannan, S., Vimal, V. P., DiZio, P., and Krishnaswamy, N. (2024). Embodying Human-Like Modes of Balance Control Through Human-in-the-Loop Dyadic Learning. In *AAAI Spring Symposium: Symposium on Human-Like Learning (HLL).* AAAI.
-(In collaboration with Brandeis University)
+(In collaboration with Brandeis University.)
 
 Last but not least, another hat trick (+1 bonus poster) at the International Conference on Human-Computer Interaction, to be held in Washington, DC, in June/July:
 
 * VanderHoeven, H., Bradford, M., Jung, C., Khebour, I., Lai, K., Pustejovsky, J., Krishnaswamy, N., and Blanchard, N. (2024). Multimodal Design for Interactive Collaborative Problem Solving Support. In *International Conference on Human-Computer Interaction (HCII).* Springer.
-(In collaboration with Brandeis University)
+(In collaboration with Brandeis University.)
 
 * Zhu, Y., VanderHoeven, H., Lai, K., Bradford, M., Tam, C., Khebour, I., Brutti, R., Krishnaswamy, N., and Pustejovsky, J. (2024). Modeling Theory of Mind in Multimodal HCI. In *International Conference on Human-Computer Interaction (HCII).* Springer.
-(In collaboration with Brandeis University)
+(In collaboration with Brandeis University.)
 
 * VanderHoeven, H., Blanchard, N., and Krishnaswamy, N. (2024). Point Target Detection for Multimodal Communication. In *International Conference on Human-Computer Interaction (HCII).* Springer.
 
