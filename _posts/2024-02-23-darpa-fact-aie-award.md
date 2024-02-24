@@ -10,4 +10,4 @@ I am beyond excited that we have been awarded a contract on the DARPA Friction a
 
 Put simply, LLMs are incentivized to accept the premises in whatever is input to them, even if false or faulty, and generate responses accordingly. This is due to an inability to track and assess the validity of beliefs held by their interlocutors. Theory of Mind (ToM) provides a way of measuring and tracking such beliefs, such as in the course of a shared collaborative task. Therefore we're going to build ToM into LLMs.
 
-This project is a collaboration with Dr. James Pustejovsky at Brandeis University. Other CSU personnel include Dr. Nate Blanchard, Dr. Sarath Sreedharan, and Dr. Bruce Draper.
+This project is a collaboration with Dr. James Pustejovsky at Brandeis University. Other CSU personnel include Dr. Nate Blanchard, Dr. Sarath Sreedharan, and Dr. Bruce Draper. I'm very excited to lead this excellent team!
