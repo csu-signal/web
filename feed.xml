@@ -5,8 +5,8 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Feb 2024 04:23:37 +0000</pubDate>
-    <lastBuildDate>Sat, 24 Feb 2024 04:23:37 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Feb 2024 04:25:44 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Feb 2024 04:25:44 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -16,6 +16,8 @@
 &lt;p&gt;Put simply, LLMs are incentivized to accept the premises in whatever is input to them, even if false or faulty, and generate responses accordingly. This is due to an inability to track and assess the validity of beliefs held by their interlocutors. Theory of Mind (ToM) provides a way of measuring and tracking such beliefs, such as in the course of a shared collaborative task. Therefore we’re going to build ToM into LLMs.&lt;/p&gt;
 
 &lt;p&gt;This project is a collaboration with Dr. James Pustejovsky at Brandeis University. Other CSU personnel include Dr. Nate Blanchard, Dr. Sarath Sreedharan, and Dr. Bruce Draper. I’m very excited to lead this excellent team!&lt;/p&gt;
+
+&lt;p&gt;(X-posted on &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/2024/02/23/darpa-fact-aie-award.html&quot;&gt;nikhilkrishnaswamy.com&lt;/a&gt;)&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Feb 2024 07:00:00 +0000</pubDate>
         <link>https://www.signallab.ai/https://www.signallab.ai//darpa-fact-aie-award</link>
