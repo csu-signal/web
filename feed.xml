@@ -5,9 +5,30 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Feb 2024 20:44:20 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Feb 2024 20:44:20 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Feb 2024 04:16:39 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Feb 2024 04:16:39 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>DARPA FACT AIE Award</title>
+        <description>&lt;p&gt;I am beyond excited that we have been awarded a contract on the DARPA Friction and Accountability in Conversational Transactions (FACT) AI Exploration program! Our project, &lt;em&gt;TRACE: Transparency, Reflection, and Accountability in Conversational Exchanges&lt;/em&gt;, will address a lack of “friction” (deliberation and reflective reasoning) in LLMs that prevent them from being used reliably in mission-critical workflows.&lt;/p&gt;
+
+&lt;p&gt;Put simply, LLMs are incentivized to accept the premises in whatever is input to them, even if false or faulty, and generate responses accordingly. This is due to an inability to track and assess the validity of beliefs held by their interlocutors. Theory of Mind (ToM) provides a way of measuring and tracking such beliefs, such as in the course of a shared collaborative task. Therefore we’re going to build ToM into LLMs.&lt;/p&gt;
+
+&lt;p&gt;This project is a collaboration with Dr. James Pustejovsky at Brandeis University. Other CSU personnel include Dr. Nate Blanchard, Dr. Sarath Sreedharan, and Dr. Bruce Draper.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Feb 2024 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai/https://www.signallab.ai//darpa-fact-aie-award</link>
+        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//darpa-fact-aie-award</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        <category>grants</category>
+        
+        
+      </item>
     
       <item>
         <title>LREC-COLING Hat Trick and Other Stories</title>
@@ -345,31 +366,6 @@
         <category>news</category>
         
         <category>pubs</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Congratulations to Dhruva Patil and Jason Garcia!</title>
-        <description>&lt;p&gt;Congratulations to Dr. &lt;strong&gt;Dhruva Patil&lt;/strong&gt; for defending his Ph.D. dissertation and to &lt;strong&gt;Jason Garcia&lt;/strong&gt; for defending his Master’s thesis!&lt;/p&gt;
-
-&lt;p&gt;Dhruva’s dissertation is entitled &lt;em&gt;Something Is Fishy! How ambiguous language affects generalization of video action recognition networks&lt;/em&gt;. In this research, he analyses weaknesses in the label set of the popular Something-Something video action recognition dataset, and discusses how the one-hot encoding of class labels in computer vision tasks may effectively be hamstringing deep neural networks in vision tasks.  Dhruva will be starting a research position at Amazon in June.&lt;/p&gt;
-
-&lt;p&gt;Jason’s thesis is entitled &lt;em&gt;Applications of Topological Data Analysis to Natural Language Processing and Computer Vision&lt;/em&gt;. Jason applies techniques of topological data analysis, a mathematical technique for exploring the “shape” of data, to problems in NLP and computer vision, including a novel analysis of the topological properties of the encoder layers in BERT.  Jason will be continuing at CSU for a Ph.D. in Math.&lt;/p&gt;
-
-&lt;p&gt;Congratulations to Dhruva and Jason!  It’s been a pleasure to work with you and to see you acheive your degrees!&lt;/p&gt;
-
-&lt;p&gt;(X-posted on &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/2022/04/11/congratulations-dhruva-patil-jason-garcia.html&quot;&gt;nikhilkrishnaswamy.com&lt;/a&gt;)&lt;/p&gt;
-</description>
-        <pubDate>Mon, 11 Apr 2022 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai/https://www.signallab.ai//congratulations-dhruva-patil-jason-garcia</link>
-        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//congratulations-dhruva-patil-jason-garcia</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
-        
-        <category>grads</category>
         
         
       </item>
