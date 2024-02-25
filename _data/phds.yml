@@ -36,7 +36,7 @@ benkhebour:
   url_full:
   url:
   bio: Ph.D. Student in Computer Science at Colorado State University
-  assets:
+  assets: assets/images/spring24/khebour.png
   
 mbrad:
   username: mbrad
@@ -46,7 +46,7 @@ mbrad:
   url_full:
   url:
   bio: Ph.D. Student in Computer Science at Colorado State University
-  assets:
+  assets: assets/images/spring24/bradford.png
   
 nadahass:
   username: nadahass
