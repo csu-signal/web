@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Congratulations to Hannah VanderHoeven!
-date: 2023-05-01 07:00:00
+date: 2024-05-01 07:00:00
 tags: lab news grads
 author: nkrishna
 ---
