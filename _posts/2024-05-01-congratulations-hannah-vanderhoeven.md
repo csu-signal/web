@@ -16,4 +16,4 @@ I don't have a picture of the defense, but here's a picture from the poster sess
 
 ![NSF Site Visit 2024](../assets/images/spring24/nsf-site-visit-2024.jpg?raw=true "NSF Site Visit 2024")
 
-(X-posted on [nikhilkrishnaswamy.com](https://www.nikhilkrishnaswamy.com/2023/05/01/congratulations-hannah-vanderhoeven.html))
+(X-posted on [nikhilkrishnaswamy.com](https://www.nikhilkrishnaswamy.com/2024/05/01/congratulations-hannah-vanderhoeven.html))
