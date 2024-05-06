@@ -5,9 +5,26 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 May 2024 12:31:23 +0000</pubDate>
-    <lastBuildDate>Fri, 03 May 2024 12:31:23 +0000</lastBuildDate>
+    <pubDate>Mon, 06 May 2024 21:58:53 +0000</pubDate>
+    <lastBuildDate>Mon, 06 May 2024 21:58:53 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>CS Department Scholarship Recipients</title>
+        <description>&lt;p&gt;Three SIGNAL Lab students were awarded scholarships by the CSU CS department for meritorious achievements in AI/computer science.&lt;/p&gt;
+
+&lt;p&gt;The recipients are: Abhijnan Nath, winner of the Evolutionary Computing and AI Fellowship; Sheikh Mannan, winner of the CS Graduate Fellowship; and Shadi Manafi, winner of the Wim Böhm and Partners Fellowship.  Congratulations to Abhijnan, Mannan, and Shadi!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 May 2024 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai/https://www.signallab.ai//cs-department-scholarship-recipients</link>
+        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//cs-department-scholarship-recipients</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        
+      </item>
     
       <item>
         <title>Congratulations to Hannah VanderHoeven!</title>
@@ -305,63 +322,6 @@
         <category>news</category>
         
         <category>grads</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Summer/Fall Publications</title>
-        <description>&lt;p&gt;It’s been a busy summer!&lt;/p&gt;
-
-&lt;p&gt;In addition to the publications mentioned previously (&lt;em&gt;The VoxWorld Platform for Multimodal Embodied Agents&lt;/em&gt;, &lt;em&gt;Exploiting Embodied Simulation to Detect Novel Object Classes Through Interaction&lt;/em&gt;, and &lt;em&gt;A deep dive into microphones for recording collaborative group work&lt;/em&gt;), members of the SIGNAL Lab were involved with a slew of other papers that were presented during the summer or will be in the fall:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Challenges and Opportunities in Annotating a Multimodal Collaborative Problem Solving Task&lt;/em&gt; and &lt;em&gt;Multimodal Features for Group Dynamic-Aware Agents&lt;/em&gt; were presented by SIGNAL Lab Ph.D. student Mariah Bradford at the Workshop on Interdisciplinary Approaches to Getting AI Experts and Education Stakeholders Talking (Bridging AIEd) at AIEd in Durham, UK, in late July. These papers address questions in feature extraction and annotation in small group tasks for the NSF AI Institute for Student-AI Teaming (iSAT).&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;iSAT speech-based AI display for small group collaboration in classrooms&lt;/em&gt; won the Best Interactive Event Award at AIEd! SIGNAL Lab Ph.D. student Ibrahim Khebour worked on this demo for iSAT.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Exploring Correspondences Between Gibsonian and Telic Affordances for Object Grasping&lt;/em&gt; was presented at the 2nd Workshop on Annotation, Recognition and Evaluation of Actions (AREA) at ESSLLI in Galway, Ireland in early August. This paper is adapted from part of Aniket Tomar’s Master’s thesis work on grasping affordances.&lt;/p&gt;
-
-&lt;p&gt;Ph.D. student Sheikh Mannan’s paper &lt;em&gt;Where am I and where should I go? Grounding positional and directional labels in a disoriented human balancing task&lt;/em&gt; applies AI and language models to a novel task involving a sophisiticated notion of embodiment.  It will be presented at the Conference on (Dis)embodiment, hosted by the Centre for Linguistic Theory and Studies in Probability (CLASP) at the University of Gothenburg in Sweden on September 16.&lt;/p&gt;
-
-&lt;p&gt;Finally, &lt;em&gt;A Generalized Method for Automated Multilingual Loanword Detection&lt;/em&gt; will appear as a poster at COLING 2022 in Gyeongju, Korea in October. This paper was a true team effort by researchers Abhijnan Nath, Sina Mahdipour Saravani, Ibrahim Khebour, Sheikh Mannan, and Zihui Li, in which we present a novel approach to detecting loanwords across arbitrary language pairs. Its companion paper &lt;em&gt;Phonetic, Semantic, and Articulatory Features in Assamese-Bengali Cognate Detection&lt;/em&gt;, led by Abhijnan, will be presented at the associated Workshop on NLP for Similar Languages, Varieties, and Dialects (VarDial).&lt;/p&gt;
-
-&lt;p&gt;Congratulations to all these students, and many others who have work under review or in preparation!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Citations&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Bradford, M., Hansen, P., Lai, K., Brutti, R., Dickler, R., Hirshfield, L. M., Pustejovsky, J., Blanchard, N., and Krishnaswamy, N. (2022). &lt;em&gt;Challenges and Opportunities in Annotating a Multimodal Collaborative Problem Solving Task.&lt;/em&gt; In &lt;em&gt;Workshop on Interdisciplinary Approaches to Getting AI Experts and Education Stakeholders Talking (Bridging AIEd)&lt;/em&gt;. International AIEd Society.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Castillon, I., Venkatesha, V., VanderHoeven, H., Bradford, M., Krishnaswamy, N., and Blanchard, N. (2022). &lt;em&gt;Multimodal Features for Group Dynamic-Aware Agents.&lt;/em&gt; In &lt;em&gt;Workshop on Interdisciplinary Approaches to Getting AI Experts and Education Stakeholders Talking (Bridging AIEd)&lt;/em&gt;. International AIEd Society.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Dickler, R., Foltz, P. W., Krishnaswamy, N., Whitehill, J., Weatherly, J., Bodzianowski, M., Perkoff, M., Southwell, R., Pugh, S., Bush, J., Chang, M., Hirshfield, L. M., Showers, D., Ganesh, A., Li, Z., Danilyuk, E., He, X., Khebour, I., Dey, I., Puntambekar, S., and D’Mello, S. K. (2022). &lt;em&gt;iSAT speech-based AI display for small group collaboration in classrooms&lt;/em&gt;. In Interactive event at International Conference on Artificial Intelligence in Education (AIEd). International AIEd Society.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Tomar, A. and Krishnaswamy, N. (2022). &lt;em&gt;Exploring Correspondences Between Gibsonian and Telic Affordances for Object Grasping.&lt;/em&gt; In &lt;em&gt;Workshop on Annotation, Recognition and Evaluation of Actions (AREA)&lt;/em&gt;. ACL.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mannan, S. and Krishnaswamy, N. (2022). &lt;em&gt;Where am I and where should I go? Grounding positional and directional labels in a disoriented human balancing task.&lt;/em&gt; &lt;em&gt;In Conference on (Dis)embodiment&lt;/em&gt;. ACL.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Nath, A., Mahdipour Saravani, S., Khebour, I., Mannan, S., Li, Z., and Krishnaswamy, N. (2022). &lt;em&gt;A Generalized Method for Automated Multilingual Loanword Detection.&lt;/em&gt; In &lt;em&gt;International Conference on Computational Linguistics (COLING)&lt;/em&gt;. ACL.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Nath, A., Ghosh, R., and Krishnaswamy, N. (2022). &lt;em&gt;Phonetic, Semantic, and Articulatory Features in Assamese-Bengali Cognate Detection.&lt;/em&gt; In &lt;em&gt;Workshop on NLP for Similar Languages, Varieties, and Dialects (VarDial)&lt;/em&gt;. ACL.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 08 Sep 2022 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai/https://www.signallab.ai//summer-fall-publications</link>
-        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//summer-fall-publications</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
-        
-        <category>pubs</category>
         
         
       </item>
