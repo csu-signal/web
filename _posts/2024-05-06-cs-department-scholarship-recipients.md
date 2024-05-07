@@ -2,7 +2,7 @@
 layout: post
 title: CS Department Scholarship Recipients
 date: 2024-05-06 07:00:00
-tags: lab news
+tags: lab news awards
 author: nkrishna
 ---
 
