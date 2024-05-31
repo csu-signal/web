@@ -5,9 +5,30 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 May 2024 03:42:20 +0000</pubDate>
-    <lastBuildDate>Tue, 07 May 2024 03:42:20 +0000</lastBuildDate>
+    <pubDate>Fri, 31 May 2024 16:37:09 +0000</pubDate>
+    <lastBuildDate>Fri, 31 May 2024 16:37:09 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Here are three of us at LREC-COLING 2024</title>
+        <description>&lt;p&gt;Here are three of us outside the Lingotto Conference Center in Turin, Italy, site of LREC-COLING 2024, held from May 20-25. From left to right: Shadi Manafi, Nikhil Krishnaswamy, Abhijnan Nath, and Ibrahim Khebour.&lt;/p&gt;
+
+&lt;p&gt;We had one poster presentation and two talks, and LREC-COLING hired a (really quite good, though very loud) Queen cover band for the gala dinner.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/summer24/lrec-coling-2024.jpg?raw=true&quot; alt=&quot;LREC-COLING 2024&quot; title=&quot;LREC-COLING 2024&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 31 May 2024 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai/https://www.signallab.ai//lrec-coling-2024</link>
+        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//lrec-coling-2024</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        <category>pubs</category>
+        
+        
+      </item>
     
       <item>
         <title>CS Department Scholarship Recipients</title>
@@ -291,33 +312,6 @@
         <pubDate>Fri, 21 Oct 2022 07:00:00 +0000</pubDate>
         <link>https://www.signallab.ai/https://www.signallab.ai//fall-22-ms-project-posters</link>
         <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//fall-22-ms-project-posters</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
-        
-        <category>grads</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Congratulations to Abhijnan Nath!</title>
-        <description>&lt;p&gt;Congratulations to &lt;strong&gt;Abhijnan Nath&lt;/strong&gt; for defending his Master’s thesis!&lt;/p&gt;
-
-&lt;p&gt;Abhijnan’s thesis is entitled &lt;em&gt;Linear Mappings: Semantic Transfer from Transformer Models for Cognate Detection and Coreference Resolution&lt;/em&gt;. Abhijnan argues that high-dimensional vector semantic information can be transfered between Transformer-based language models using a simple affine transformation technique that draws upon previous insights from vision researchers from CSU. He presents evidence from two distinct linguistic tasks: bilingual cognate detection and cross-document coreference eresolution. Part of this research appears in our VarDial workship paper from COLING this year and part of it was funded by the DARPA AIDA program.  Abhijnan will be continuing in the SIGNAL Lab for a Ph.D. starting in Fall 2022!&lt;/p&gt;
-
-&lt;p&gt;Congratulations to Abhijnan!  It’s been a pleasure to work with you and I look forward to continuing our collaboration!&lt;/p&gt;
-
-&lt;p&gt;Here we are after the defense with Abhijnan’s external committee member, Prof. Emily King from Mathematics.  Not shown: Prof. Nate Blanchard, who was out of town and attended remotely.  Getting a student to photoshop him in.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/fall22/abhijnan-defense.jpg?raw=true&quot; alt=&quot;Abhijnan Nath MS Thesis Defense&quot; title=&quot;Abhijnan Nath MS Thesis&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;(X-posted on &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/2022/10/21/congratulations-abhijnan-nath.html&quot;&gt;nikhilkrishnaswamy.com&lt;/a&gt;)&lt;/p&gt;
-</description>
-        <pubDate>Fri, 21 Oct 2022 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai/https://www.signallab.ai//congratulations-abhijnan-nath</link>
-        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//congratulations-abhijnan-nath</guid>
         
         <category>lab</category>
         
