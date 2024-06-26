@@ -5,9 +5,32 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 May 2024 16:37:09 +0000</pubDate>
-    <lastBuildDate>Fri, 31 May 2024 16:37:09 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Jun 2024 02:14:56 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jun 2024 02:14:56 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Congratulations to Nada Alalyani!</title>
+        <description>&lt;p&gt;Congratulations to Dr. &lt;strong&gt;Nada Alalyani&lt;/strong&gt; for successfully defending her Ph.D. dissertation!&lt;/p&gt;
+
+&lt;p&gt;In Nada’s dissertation, &lt;em&gt;Embodied Multimodal Referring Expressions Generation&lt;/em&gt;, she takes the Diana system which I worked on through my postdoc and uses it to train an LLM that can drive interactive virtual avatar behavior to refer to objects in context using mixed modalities. It’s also somewhat bittersweet for me because this represents probably the last research done with the Diana system from the CwC project.&lt;/p&gt;
+
+&lt;p&gt;Congratulations to Nada!  I’ve been continually impressed by your ability to take challenging ideas and turn them into reality. Best of luck in your future endeavors!&lt;/p&gt;
+
+&lt;p&gt;(X-posted on &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/2024/06/25/congratulations-nada-alalyani.html&quot;&gt;nikhilkrishnaswamy.com&lt;/a&gt;)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Jun 2024 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai/https://www.signallab.ai//congratulations-nada-alalyani</link>
+        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//congratulations-nada-alalyani</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        <category>grads</category>
+        
+        
+      </item>
     
       <item>
         <title>Here are three of us at LREC-COLING 2024</title>
@@ -291,33 +314,6 @@
         <category>news</category>
         
         <category>pubs</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Congrats to Fall '22 M.S. Project Presenters</title>
-        <description>&lt;p&gt;Congratulations to M.S. students Ramya Sree Patchava and Kush Pandya who presented their M.S. Project posters at the CSU CS Graduate Research Symposium yesterday!&lt;/p&gt;
-
-&lt;p&gt;Very proud to see these two bring their research to a successful conclusion and graduate!&lt;/p&gt;
-
-&lt;p&gt;Ramya’s project: &lt;strong&gt;Evaluating Interchangeability of Face Feature Vectors&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Kush’s project: &lt;strong&gt;Qualitative Spatial Relation Representation with ML Embedding Spaces&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Here we are at the conclusion of yesterday’s event:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/fall22/posters-ramya-kush.jpg?raw=true&quot; alt=&quot;Ramya and Kush's Posters&quot; title=&quot;Ramya and Kush's Posters&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 21 Oct 2022 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai/https://www.signallab.ai//fall-22-ms-project-posters</link>
-        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//fall-22-ms-project-posters</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
-        
-        <category>grads</category>
         
         
       </item>
