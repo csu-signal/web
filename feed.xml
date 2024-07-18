@@ -5,9 +5,34 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Jun 2024 02:14:56 +0000</pubDate>
-    <lastBuildDate>Wed, 26 Jun 2024 02:14:56 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jul 2024 04:05:42 +0000</pubDate>
+    <lastBuildDate>Thu, 18 Jul 2024 04:05:42 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Best Paper Award at EDM 2024</title>
+        <description>&lt;p&gt;Exciting news! Our paper, &lt;em&gt;Propositional Extraction from Natural Speech in Small Group Collaborative Tasks&lt;/em&gt;, was awarded Best Student Paper at the International Conference on Educational Data Mining 2024. This paper addresses the problem of extracting the semantics expressed by spoken utterances in a multiparty context. In spoken dialogue, the same semantic content can be expressed in many different ways. While it’s easy for humam to interpret the may ways of saying the same thing, it is challenging for computers for many reasons, such as filler words, disfluencies, and overlapping utterances. We adapted a cross-encoding method from coreference research in NLP to address this problem and perform significantly better than a vector-similarity approach, and achieve a strong baseline in this novel, challenging task. We also analyze the impact that transcription errors from automatic speech recognition have on performace, and find that with our cross-encoding approach, the impact of such errors can be substantially minimized.&lt;/p&gt;
+
+&lt;p&gt;Congratulations to Videep, Abhijnan, Ibrahim, Avyakta, and Mariah!&lt;/p&gt;
+
+&lt;p&gt;First author &lt;strong&gt;Videep Venkatesha&lt;/strong&gt; was in Atlanta this week to present the paper and accept the award. This paper was based on material funded by both the NSF iSAT institute and the DARPA FACT program, and is a collaboration with Brandeis University. The link to the proceedings can be found &lt;a href=&quot;https://educationaldatamining.org/edm2024/proceedings/2024.EDM-long-papers.14/2024.EDM-long-papers.14.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Citation: Venkatesha, V., Nath, A., Khebour, I., Chelle, A., Bradford, M., Tu, J., Pustejovsky, J., Blanchard, N., and Krishnaswamy, N. (2024). Propositional Extraction from Natural Speech in Small Group Collaborative Tasks. In &lt;em&gt;International Conference on Educational Data Mining (EDM)&lt;/em&gt;. International EDM Society.&lt;/p&gt;
+
+&lt;p&gt;(X-posted on &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/2024/07/17/best-paper-award-edm-2024.html&quot;&gt;nikhilkrishnaswamy.com&lt;/a&gt;)&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Jul 2024 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai/https://www.signallab.ai//best-paper-award-edm-2024</link>
+        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//best-paper-award-edm-2024</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        <category>awards</category>
+        
+        
+      </item>
     
       <item>
         <title>Congratulations to Nada Alalyani!</title>
@@ -291,29 +316,6 @@
         <category>news</category>
         
         <category>grads</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>New Paper at ACS</title>
-        <description>&lt;p&gt;SIGNAL Lab Ph.D. student Sadaf Ghaffari presented &lt;em&gt;Detecting and Accommodating Novel Types and Concepts in an Embodied Simulation Environment&lt;/em&gt; at the Annual Conference on Advances in Cognitive Systems at George Mason University in Arlington, VA.  In this paper, we explore techniques to imbue neural networks with the capability to expand to accommodate new concepts and to detect when the neural model itself is inadequate to the environment, relying on information extracted from an embodied simulation.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Citations&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ghaffari, S. and Krishnaswamy, N. (2022). &lt;em&gt;Detecting and Accommodating Novel Types and Concepts in an Embodied Simulation Environment.&lt;/em&gt; In &lt;em&gt;Annual Conference on Advances in Cognitive Systems (ACS)&lt;/em&gt;. Cognitive Systems Foundation.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 21 Nov 2022 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai/https://www.signallab.ai//new-paper-at-acs-2022</link>
-        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//new-paper-at-acs-2022</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
-        
-        <category>pubs</category>
         
         
       </item>
