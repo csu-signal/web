@@ -5,13 +5,13 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Jul 2024 04:05:42 +0000</pubDate>
-    <lastBuildDate>Thu, 18 Jul 2024 04:05:42 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jul 2024 04:12:12 +0000</pubDate>
+    <lastBuildDate>Thu, 18 Jul 2024 04:12:12 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Best Paper Award at EDM 2024</title>
-        <description>&lt;p&gt;Exciting news! Our paper, &lt;em&gt;Propositional Extraction from Natural Speech in Small Group Collaborative Tasks&lt;/em&gt;, was awarded Best Student Paper at the International Conference on Educational Data Mining 2024. This paper addresses the problem of extracting the semantics expressed by spoken utterances in a multiparty context. In spoken dialogue, the same semantic content can be expressed in many different ways. While it’s easy for humam to interpret the may ways of saying the same thing, it is challenging for computers for many reasons, such as filler words, disfluencies, and overlapping utterances. We adapted a cross-encoding method from coreference research in NLP to address this problem and perform significantly better than a vector-similarity approach, and achieve a strong baseline in this novel, challenging task. We also analyze the impact that transcription errors from automatic speech recognition have on performace, and find that with our cross-encoding approach, the impact of such errors can be substantially minimized.&lt;/p&gt;
+        <description>&lt;p&gt;Exciting news! Our paper, &lt;em&gt;Propositional Extraction from Natural Speech in Small Group Collaborative Tasks&lt;/em&gt;, was awarded Best Student Paper at the International Conference on Educational Data Mining 2024. This paper addresses the problem of extracting the semantics expressed by spoken utterances in a multiparty context. In spoken dialogue, the same semantic content can be expressed in many different ways. While it’s easy for humans to interpret the many ways of saying the same thing, it is challenging for computers for many reasons, such as filler words, disfluencies, and overlapping utterances. We adapted a cross-encoding method from coreference research in NLP to address this problem and perform significantly better than a vector-similarity approach, and achieve a strong baseline in this novel, challenging task. We also analyze the impact that transcription errors from automatic speech recognition have on performace, and find that with our cross-encoding approach, the impact of such errors can be substantially minimized.&lt;/p&gt;
 
 &lt;p&gt;Congratulations to Videep, Abhijnan, Ibrahim, Avyakta, and Mariah!&lt;/p&gt;
 
