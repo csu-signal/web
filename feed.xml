@@ -5,9 +5,36 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Jul 2024 04:13:20 +0000</pubDate>
-    <lastBuildDate>Thu, 18 Jul 2024 04:13:20 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Oct 2024 04:10:40 +0000</pubDate>
+    <lastBuildDate>Tue, 08 Oct 2024 04:10:40 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Congratulations to Shadi Manafi!</title>
+        <description>&lt;p&gt;Congratulations to Dr. &lt;strong&gt;Shadi Manafi&lt;/strong&gt; for successfully defending her Ph.D. dissertation!&lt;/p&gt;
+
+&lt;p&gt;In Shadi’s dissertation, &lt;em&gt;Smart Transfers:  Challenges and Opportunities in Boosting Low-Resource Language Models with High-Resource Power&lt;/em&gt;, she examines the properties of transformer language models trained on well-resourced or high-resource languages (HRLs) when applied to low-resource languages (LRLs) and finds that language models can come to depend to an extent on word memorization of the better-resourced languages, a shortcoming that comes with some unexpected drawbacks and (surprisingly) benefits.&lt;/p&gt;
+
+&lt;p&gt;Congratulations to Shadi!  You were the first Ph.D. student I started working with at CSU and congratulations on navigating this convoluted and sometimes challenging path successfully. Best of luck in what comes next!&lt;/p&gt;
+
+&lt;p&gt;Here is a picture after defense, of Shadi with her committee members: Prof. Francisco Ortega (CS) and Prof. Edwin Chong (Electrical and Computer Engineering). And me (not shown, Prof. Nathaniel Blanchard, who attended online.)&lt;/p&gt;
+
+&lt;p&gt;![Shadi Manafi PhD Dissertation Defense](../assets/images/fall24/shadi-defense.jpg?raw=true “Shadi Manafi PhD Dissertation Defense)&lt;/p&gt;
+
+&lt;p&gt;(X-posted on &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/2024/06/25/congratulations-shadi-manafi.html&quot;&gt;nikhilkrishnaswamy.com&lt;/a&gt;)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Oct 2024 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai/https://www.signallab.ai//congratulations-shadi-manafi</link>
+        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//congratulations-shadi-manafi</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        <category>grads</category>
+        
+        
+      </item>
     
       <item>
         <title>Best Paper Award at EDM 2024</title>
@@ -289,33 +316,6 @@
         <category>news</category>
         
         <category>pubs</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Congratulations to Aniket Tomar!</title>
-        <description>&lt;p&gt;Congratulations to &lt;strong&gt;Aniket Tomar&lt;/strong&gt; on successfully defending his Master’s thesis!&lt;/p&gt;
-
-&lt;p&gt;Aniket’s thesis is entitled &lt;em&gt;Exploring Correspondences Between Gibsonian and Telic Affordances for Object Grasping using 3D Geometry&lt;/em&gt;. This is a really interesting work in that Aniket took what was initially a negative result and probed it enough to draw a robust conclusion about the representation of Gibsonian and telic affordaces in 3D data and the difficulty of embodied tasks for even specialized machine learning models. Part of this work appeared in our &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/assets/docs/pdfs/AREA-2022.pdf&quot;&gt;AREA workshop paper&lt;/a&gt; at ESSLLI last summer.&lt;/p&gt;
-
-&lt;p&gt;Congratulations to Aniket!  It’s been a pleasure working with you and I look forward to seeing what you do next!&lt;/p&gt;
-
-&lt;p&gt;Here we are after the defense with Aniket’s committee: myself, Prof. Nathaniel Blanchard and Prof. Ben Clegg from Psychology.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/spring23/aniket-defense.jpg?raw=true&quot; alt=&quot;Aniket Tomar MS Thesis Defense&quot; title=&quot;Aniket Tomar MS Thesis&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;(X-posted on &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/2023/03/06/congratulations-aniket-tomar.html&quot;&gt;nikhilkrishnaswamy.com&lt;/a&gt;)&lt;/p&gt;
-</description>
-        <pubDate>Mon, 06 Mar 2023 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai/https://www.signallab.ai//congratulations-aniket-tomar</link>
-        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//congratulations-aniket-tomar</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
-        
-        <category>grads</category>
         
         
       </item>
