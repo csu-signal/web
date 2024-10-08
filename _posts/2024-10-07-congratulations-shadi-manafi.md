@@ -12,7 +12,7 @@ In Shadi's dissertation, *Smart Transfers:  Challenges and Opportunities in Boos
 
 Congratulations to Shadi!  You were the first Ph.D. student I started working with at CSU and congratulations on navigating this convoluted and sometimes challenging path successfully. Best of luck in what comes next!
 
-Here is a picture after defense, of Shadi with her committee members: Prof. Francisco Ortega (CS) and Prof. Edwin Chong (Electrical and Computer Engineering). And me (not shown, Prof. Nathaniel Blanchard, who attended online.)
+Here is a picture after defense, of Shadi with her committee members: Prof. Francisco Ortega (CS) and Prof. Edwin Chong (Electrical and Computer Engineering). And me (not shown, Prof. Nathaniel Blanchard, who attended online).
 
 ![Shadi Manafi PhD Dissertation Defense](../assets/images/fall24/shadi-defense.jpg?raw=true "Shadi Manafi PhD Dissertation Defense")
 
