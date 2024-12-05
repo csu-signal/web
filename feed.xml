@@ -5,9 +5,36 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Oct 2024 04:25:04 +0000</pubDate>
-    <lastBuildDate>Tue, 08 Oct 2024 04:25:04 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Dec 2024 17:05:00 +0000</pubDate>
+    <lastBuildDate>Thu, 05 Dec 2024 17:05:00 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Best Paper Nominee at HAI 2024 and AAAI Demo</title>
+        <description>&lt;p&gt;Congratulations to Ph.D. student Sheikh Mannan and former SIGNAL Lab undergraduate researcher Paige Hansen! Our paper, &lt;em&gt;Combating Spatial Disorientation in a Dynamic Self-Stabilization Task Using AI Assistants&lt;/em&gt;, received a nomination for Best Paper at the International Conference on Human-Agent Interaction 2024. This paper was written in collaboration with the Department of Psychology and Neuroscience at Brandeis University. In it, we use a high-throughput, high-fidelity simulation of inverted pendulum balancing under spatially disorienting conditions and train a variety of AI models that can perform the task to various different abilities, and also provide cues to humans performing the task in order to enable them to take better actions. We conducted a high-volume study using digital twins and then a human subject study in which 20 subjects and 5 of the best performing assistant models engaged in human-in-the-loop training of the assistants. Our findings indicate that AI assistance can help people perform substantially better at the task, but that assitance who have a more human-like mode of operation are less effective yet more trusted and preferred by humans.&lt;/p&gt;
+
+&lt;p&gt;Congratulations to Mannan and Paige!&lt;/p&gt;
+
+&lt;p&gt;The link to the proceedings can be found &lt;a href=&quot;https://dl.acm.org/doi/abs/10.1145/3687272.3688329&quot;&gt;here&lt;/a&gt;. The platform we developed for this study will also be presented as a demo at AAAI 2025 next February in Philadephia!&lt;/p&gt;
+
+&lt;p&gt;Citations:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mannan, S., Hansen, P., Vimal, V.P., Davies, H.N., DiZio, P., and Krishnaswamy, N. (2024). Combating Spatial Disorientation in a Dynamic Self-Stabilization Task Using AI Assistants. In &lt;em&gt;International Conference on Human-Agent Interaction (HAI)&lt;/em&gt;. ACM.&lt;/li&gt;
+  &lt;li&gt;Mannan S. and Krishnaswamy, N. (2025). Bidirectional Human-AI Learning in Real-Time Disoriented Balancing. To appear in &lt;em&gt;AAAI Conference on Artificial Intelligence (AAAI): Demos Program&lt;/em&gt;. AAAI.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 05 Dec 2024 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai/https://www.signallab.ai//best-paper-nominee-hai-2024</link>
+        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//best-paper-nominee-hai-2024</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        <category>awards</category>
+        
+        
+      </item>
     
       <item>
         <title>Congratulations to Shadi Manafi!</title>
@@ -259,63 +286,6 @@
         <category>news</category>
         
         <category>grants</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Spring 2023 Publication Round Up</title>
-        <description>&lt;p&gt;At the end of the semester, time to take stock of lab activity:&lt;/p&gt;
-
-&lt;p&gt;Hannah VanderHoeven’s paper &lt;em&gt;Robust Motion Recognition using Gesture Phase Annotation&lt;/em&gt; was accepted for publication at HCII 2023 in Copenhagen, Denmark in July!&lt;/p&gt;
-
-&lt;p&gt;Also at HCII will be &lt;em&gt;Intentional Microgesture Recognition for Extended Human-Computer Interaction&lt;/em&gt;, with Sheikh Mannan and Hannah as contributing authors!&lt;/p&gt;
-
-&lt;p&gt;Mariah Bradford and Ibrahim Khebour’s paper &lt;em&gt;Automatic Detection of Collaborative States in Small Groups Using Multimodal Features&lt;/em&gt; was accepted for publication at AIEd 2023 in Tokyo, Japan, also in July!&lt;/p&gt;
-
-&lt;p&gt;Mariah and Ibrahim also contributed to &lt;em&gt;How Good is Automatic Segmentation as a Multimodal Discourse Annotation Aid?&lt;/em&gt;, accepted for presentation at the Interoperable Semantic Annotation workshop at IWCS in June.&lt;/p&gt;
-
-&lt;p&gt;Sadaf Ghaffari’s paper &lt;em&gt;Grounding and Distinguishing Conceptual Vocabulary Through Similarity Learning in Embodied Simulations&lt;/em&gt; was accepted for publication at the IWCS 2023 main conference in Nancy, France!&lt;/p&gt;
-
-&lt;p&gt;And finally, Abhijnan Nath and Mannan’s paper &lt;em&gt;AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese&lt;/em&gt; was accepted for publication in Findings of ACL 2023, the companion volume to the ACL 2023 conference!  Abhijnan was also second author on &lt;em&gt;2*n is better than n^2: Decomposing Event Coreference Resolution into Two Tractable Problems&lt;/em&gt;, a collaboration with members of the BoulderNLP group, also accepted to Finding of ACL 2023.  ACL 2023 will be held in Toronto, ON, Canada, in July.&lt;/p&gt;
-
-&lt;p&gt;Look out for these papers, and more to come soon.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Citations&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;VanderHoeven, H., Blanchard, N., and Krishnaswamy, N. (2023). &lt;em&gt;Robust Motion Recognition using Gesture Phase Annotation.&lt;/em&gt; In &lt;em&gt;International Conference on Human-Computer Interaction (HCII)&lt;/em&gt;. Springer.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kandoi, C., Jung, C., Mannan, S., VanderHoeven, H., Meisman, Q., Krishnaswamy, N., and Blanchard, N. (2023). &lt;em&gt;Intentional Microgesture Recognition for Extended Human-Computer Interaction.&lt;/em&gt; In &lt;em&gt;International Conference on Human-Computer Interaction (HCII)&lt;/em&gt;. Springer.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Bradford, M., Khebour, I., Blanchard, N., and Krishnaswamy, N. (2023). &lt;em&gt;Automatic Detection of Collaborative States in Small Groups Using Multimodal Features.&lt;/em&gt; In &lt;em&gt;International Conference on Artificial Intelligence in Education (AIEd)&lt;/em&gt;. International AIEd Society.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Terpstra, C., Khebour, I., Bradford, M., Wisniewski, B., Krishnaswamy, N., and Blanchard, N. (2023). &lt;em&gt;How Good is Automatic Segmentation as a Multimodal Discourse Annotation Aid?&lt;/em&gt; In &lt;em&gt;International Workshop on Semantic Annotation (ISA)&lt;/em&gt;. ACL.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ghaffari, S. and Krishnaswamy, N. (2023). &lt;em&gt;Grounding and Distinguishing Conceptual Vocabulary Through Similarity Learning in Embodied Simulations.&lt;/em&gt; In &lt;em&gt;International Conference on Computational Semantics (IWCS)&lt;/em&gt;. ACL.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Nath, A., Mannan, S., and Krishnaswamy, N. (2023). &lt;em&gt;AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese.&lt;/em&gt; In &lt;em&gt;Findings of the Association for Computational Linguistics (Findings of ACL)&lt;/em&gt;. ACL.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ahmed, S. R., Nath, A., Martin, J. H., and Krishnaswamy, N. (2023). &lt;em&gt;2*n is better than n^2: Decomposing Event Coreference Resolution into Two Tractable Problems.&lt;/em&gt; In &lt;em&gt;Findings of the Association for Computational Linguistics (Findings of ACL)&lt;/em&gt;. ACL.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 14 May 2023 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai/https://www.signallab.ai//spring-2023-publication-roundup</link>
-        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//spring-2023-publication-roundup</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
-        
-        <category>pubs</category>
         
         
       </item>
