@@ -71,7 +71,7 @@ img {
   <h2>Alumni</h2>
   <p align="left">
   {% for person in site.data.alumni %}
-    <strong>{{ person[1].name }}</strong> ({{ person[1].degree }}, {{ person[1].year }}) - {{ person[1].next }}
+    <strong>{{ person[1].name }}</strong> ({{ person[1].degree }}, {{ person[1].year }}) {% if person[1].next != null %} - {{ person[1].next }}{% endif %}
   {% endfor %}
   </p>
   <hr>
