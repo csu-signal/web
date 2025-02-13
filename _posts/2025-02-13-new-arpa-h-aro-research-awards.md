@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DARPA FACT AIE Award
+title: New ARPA-H and ARO Research Awards
 date: 2025-02-13 07:00:00
 tags: lab news grants
 author: nkrishna
