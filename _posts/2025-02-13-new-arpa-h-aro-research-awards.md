@@ -16,4 +16,4 @@ The other award I received comes from the Army Research Office Knowledge Systems
 
 Delighted to have received this funding, especially at this time!
 
-(X-posted on [nikhilkrishnaswamy.com](https://www.nikhilkrishnaswamy.com/2024/02/13/new-arpa-h-aro-research-awards.html))
+(X-posted on [nikhilkrishnaswamy.com](https://www.nikhilkrishnaswamy.com/2025/02/13/new-arpa-h-aro-research-awards.html))
