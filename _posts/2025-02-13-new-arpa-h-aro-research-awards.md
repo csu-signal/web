@@ -12,7 +12,7 @@ The first comes from the Advanced Research Projects Agency for Health (ARPA-H), 
 
 Our team is called *VIGIL: Vectors of Intelligent Guidance in Long-Reach Rural Healthcare* (like ARPA-H we play a little fast and loose with acronyms). We are part of a large team led by Prof. Jason Corso at the University of Michigan, and our role is to develop AI-powered task guidance technology that can upskill a local health practitioner to provide certain hospital level procedures via dynamic multimodal guidance.
 
-The other award I received comes from the Army Research Office Knowledge Systems Program and is called *Modeling Causality in AI Through Embodiment and Analogy*, and we seek to imbue LLMs with correct and verifiable physical causal reasoning properties by sourcing high-fidelity physical knowledge from embodied simulation environments (Unity) in problem-solving scenarios. This follows on previous work funded by ARO, and NSF EAGER grant from 2020-2022, and work done in my Ph.D. and postdoc.
+The other award I received comes from the Army Research Office Knowledge Systems Program and is called *Modeling Causality in AI Through Embodiment and Analogy*, and we seek to imbue LLMs with correct and verifiable physical causal reasoning properties by sourcing high-fidelity physical knowledge from embodied simulation environments (Unity) in problem-solving scenarios. This follows on previous work funded by ARO, an NSF EAGER grant from 2020-2022, and work done in my Ph.D. and postdoc.
 
 Delighted to have received this funding, especially at this time!
 
