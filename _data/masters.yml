@@ -1,6 +1,6 @@
-avyakta5:
-  username: avyakta5
-  name: Avyakta Chelle
+tarun:
+  username: tarun
+  name: Tarun Varma Buddaraju
   location: Fort Collins, CO
   email:
   url_full:
@@ -8,15 +8,25 @@ avyakta5:
   bio: Graduate Student in Computer Science at Colorado State University
   assets:
 
-hannahvanderh:
-  username: hannahvanderh
-  name: Hannah VanderHoeven
-  location: Salt Lake City, UT
+saikiran:
+  username: saikiran
+  name: Sai Kiran Ganesh Kumar
+  location: Fort Collins, CO
   email:
   url_full:
   url:
   bio: Graduate Student in Computer Science at Colorado State University
-  assets: assets/images/spring24/vanderhoeven.png
+  assets:
+
+animesia:
+  username: animesia
+  name: Animesh Gurjar
+  location: Fort Collins, CO
+  email:
+  url_full:
+  url:
+  bio: Graduate Student in Computer Science at Colorado State University
+  assets: assets/images/summer25/gurjar.png
   
 videepv:
   username: videepv

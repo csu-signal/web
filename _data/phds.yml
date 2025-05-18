@@ -28,6 +28,16 @@ blcates:
   bio: Brittany is a Ph.D. student in Computer Science at Colorado State University, with a focus in Human-Centered Artificial Intelligence. With her prior education in Psychology, she is fascinated by the ways in which the cognitive science intersects with AI and user experience. On the rare occasions she finds herself away from a computer screen, she enjoys reading, gardening, and art.
   assets: assets/images/spring23/cates.png
   
+carineg:
+  username: carineg
+  name: Carine Graff
+  email: carine [dot] graff [at] colostate [dot] edu
+  location: Fort Collins, CO
+  url_full: https://www.linkedin.com/in/carinegraff/
+  url: www.linkedin.com/in/carinegraff
+  bio: Carine has a background in foreign language acquisition and applied linguistics. She holds a Ph.D. in natural language translation studies from Kent State University, Ohio and  obtained her Master's in computer science from SMU in Dallas, Texas. Her research interests lie at the intersection of LLM alignment, speech recognition, ethics, and language translation. Carine is particularly interested in how aligned LLMs can support responsible multilingual systems that integrate speech and text. A central ethical concern in her research is the exclusion of certain accents and underrepresented languages in speech recognition systems, which reinforces linguistic inequities but also marginalizes individuals who rely on these systems due to disabilities. Her work investigates how to build more inclusive models that not only translate accurately across languages, but also recognize diverse speech patterns, ensuring fair and accountable AI-mediated communication. In her free time, Carine loves hiking in the Rockies, cooking, and baking her own *miches campagne* (round loaves of French sourdough).
+  assets: assets/images/spring23/graff.png
+  
 benkhebour:
   username: benkhebour
   name: Ibrahim Khebour
@@ -67,3 +77,13 @@ sabdulm:
     url: sheikhmannan.com
     bio: Ph.D. Student in Computer Science at Colorado State University
     assets: assets/images/spring22/mannan.png
+    
+hannahvanderh:
+  username: hannahvanderh
+  name: Hannah VanderHoeven
+  location: Salt Lake City, UT
+  email:
+  url_full:
+  url:
+  bio: Graduate Student in Computer Science at Colorado State University
+  assets: assets/images/spring24/vanderhoeven.png
