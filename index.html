@@ -14,7 +14,7 @@ pagination:
         <h1 class="ampstart-fullpage-hero-heading mb0 hanuman">
           <span class="ampstart-fullpage-hero-heading-text title">
             {% if site.titleimg %}
-              <amp-img width="120" height="150" layout="fixed-height" alt="SIGNAL Lab" src="{{ site.baseurl }}{{ site.titleimg }}"></amp-img>
+              <amp-img width="150" height="120" layout="fixed-height" alt="SIGNAL Lab" src="{{ site.baseurl }}{{ site.titleimg }}" media="(min-width: 120px)"></amp-img>
             {% else %}
               {{ site.title }}
             {% endif %}
