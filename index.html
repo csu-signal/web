@@ -13,7 +13,11 @@ pagination:
       <header class="p3">
         <h1 class="ampstart-fullpage-hero-heading mb0 hanuman">
           <span class="ampstart-fullpage-hero-heading-text title">
-            {{ site.title }}
+            {% if site.titleimg %}
+              <amp-img height="240" alt="SIGNAL Lab" layout="fixed-height" src="{{ site.baseurl }}{{ site.titleimg }}" media="(min-width: 416px)"></amp-img>
+            {% else %}
+              {{ site.title }}
+            {% endif %}
           </span>
         </h1>
         <h2 class="ampstart-fullpage-hero-heading mb0">
