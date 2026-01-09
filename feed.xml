@@ -5,9 +5,24 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Sep 2025 01:34:36 +0000</pubDate>
-    <lastBuildDate>Sat, 06 Sep 2025 01:34:36 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Jan 2026 04:33:34 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Jan 2026 04:33:34 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>2025 Wrapped</title>
+        <description>&lt;p&gt;I have been rushed off my feet since last April and haven’t found time to update the website. Suffice to say that 2025 was a very successful year. Since the last update, we had papers at &lt;a href=&quot;https://aclanthology.org/2025.naacl-demo.5/&quot;&gt;NA&lt;/a&gt;&lt;a href=&quot;https://aclanthology.org/2025.naacl-long.190/&quot;&gt;ACL&lt;/a&gt;, &lt;a href=&quot;https://aclanthology.org/2025.acl-long.542/&quot;&gt;ACL&lt;/a&gt;, and &lt;a href=&quot;https://neurips.cc/virtual/2025/loc/san-diego/poster/115167&quot;&gt;NeurIPS&lt;/a&gt;, among others. We had very successful demo days at DARPA and ARPA-H, the iSAT project &lt;a href=&quot;https://www.colorado.edu/today/2025/07/29/research-institute-building-ai-literate-workforce-future-receives-major-new-grant-0&quot;&gt;got renewed&lt;/a&gt;, and our work on providing &lt;a href=&quot;https://elements.colostate.edu/csu-leads-ai-development-for-use-in-mobile-rural-health-clinic/&quot;&gt;healthcare upskilling for rural America&lt;/a&gt; was in the news.  We ran a &lt;a href=&quot;https://origen-workshop.github.io/&quot;&gt;new workshop&lt;/a&gt; at COLM. Multiple students completed milestones toward their degrees, and multiple new students will be joining the lab in 2026. Here’s to 2026 being more relaxed, but equally successful!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Jan 2026 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai/https://www.signallab.ai//2025-wrapped</link>
+        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//2025-wrapped</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        
+      </item>
     
       <item>
         <title>New ARPA-H and ARO Research Awards</title>
@@ -224,74 +239,6 @@
         <category>news</category>
         
         <category>grants</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>LREC-COLING Hat Trick and Other Stories</title>
-        <description>&lt;p&gt;We are delighted to be 3 for 3 on submissions to LREC-COLING 2024, the first Joint International Conference on Computational Linguistics and Language Resources and Evaluation! The accepted papers are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Nath, A., Jamil, H., Ahmed, S. R., Baker, G., Ghosh, R., Martin, J. H., Blanchard, N., and Krishnaswamy, N. (2024). Multimodal Cross-Document Event Coreference Resolution Using Linear Semantic Transfer and Mixed-Modality Ensembles. In &lt;em&gt;Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING).&lt;/em&gt; ACL.
-(In collaboration with the University of Colorado Boulder.)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Khebour, I., Lai, K., Bradford, M., Zhu, Y., Brutti, R., Tam, C., Tu, J., Ibarra, B., Blanchard, N., Krishnaswamy, N., and Pustejovsky, J. (2024). Common Ground Tracking in Multimodal Dialogue. In &lt;em&gt;Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING).&lt;/em&gt; ACL.
-(In collaboration with Brandeis University.)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Manafi, S. and Krishnaswamy, N. (2024). Cross-Lingual Transfer Robustness to Lower-Resource Languages on Adversarial Datasets. In &lt;em&gt;Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING).&lt;/em&gt; ACL.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The conference will be held in Turin, Italy, in late May. Congratulations to SIGNAL Lab graduate students Abhijnan, Ibrahim, Mariah, and Shadi (and all affiliated students/external collaborators)!&lt;/p&gt;
-
-&lt;p&gt;Additionally, Sheikh Mannan and Sadaf Ghaffari have a publication each at AAAI Spring Symposia, to be held at Stanford University in March:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ghaffari, S. and Krishnaswamy, N. (2024). Exploring Failure Cases in Multimodal Reasoning About Physical Dynamics. In &lt;em&gt;AAAI Spring Symposium: Empowering Machine Learning and Large Language Models with Domain and Commonsense Knowledge (MAKE).&lt;/em&gt; AAAI.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mannan, S., Vimal, V. P., DiZio, P., and Krishnaswamy, N. (2024). Embodying Human-Like Modes of Balance Control Through Human-in-the-Loop Dyadic Learning. In &lt;em&gt;AAAI Spring Symposium: Symposium on Human-Like Learning (HLL).&lt;/em&gt; AAAI.
-(In collaboration with Brandeis University.)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Last but not least, another hat trick (+1 bonus poster) at the International Conference on Human-Computer Interaction, to be held in Washington, DC, in June/July:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;VanderHoeven, H., Bradford, M., Jung, C., Khebour, I., Lai, K., Pustejovsky, J., Krishnaswamy, N., and Blanchard, N. (2024). Multimodal Design for Interactive Collaborative Problem Solving Support. In &lt;em&gt;International Conference on Human-Computer Interaction (HCII).&lt;/em&gt; Springer.
-(In collaboration with Brandeis University.)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Zhu, Y., VanderHoeven, H., Lai, K., Bradford, M., Tam, C., Khebour, I., Brutti, R., Krishnaswamy, N., and Pustejovsky, J. (2024). Modeling Theory of Mind in Multimodal HCI. In &lt;em&gt;International Conference on Human-Computer Interaction (HCII).&lt;/em&gt; Springer.
-(In collaboration with Brandeis University.)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;VanderHoeven, H., Blanchard, N., and Krishnaswamy, N. (2024). Point Target Detection for Multimodal Communication. In &lt;em&gt;International Conference on Human-Computer Interaction (HCII).&lt;/em&gt; Springer.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Congratulations to Hannah (x3), Mariah, and Ibrahim again!&lt;/p&gt;
-
-&lt;p&gt;And the poster:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Seefried, E., Bradford, M., Aich, S., Siebert, C., Krishnaswamy, N., and Blanchard, N. (2024). Learning Foreign Language Vocabulary Through Task-Based Virtual Reality Immersion. In &lt;em&gt;International Conference on Human-Computer Interaction (HCII).&lt;/em&gt; Springer.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 20 Feb 2024 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai/https://www.signallab.ai//coling-hat-trick-other-stories</link>
-        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//coling-hat-trick-other-stories</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
-        
-        <category>pubs</category>
         
         
       </item>
