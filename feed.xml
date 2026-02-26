@@ -5,9 +5,38 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Jan 2026 04:33:34 +0000</pubDate>
-    <lastBuildDate>Fri, 09 Jan 2026 04:33:34 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Feb 2026 22:36:22 +0000</pubDate>
+    <lastBuildDate>Thu, 26 Feb 2026 22:36:22 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Congratulations to Dr. Abhijnan Nath!</title>
+        <description>&lt;p&gt;Congratulations to Dr. &lt;strong&gt;Abhijnan Nath&lt;/strong&gt; for successfully defending his Ph.D. dissertation!&lt;/p&gt;
+
+&lt;p&gt;Abhijnan’s dissertation, &lt;em&gt;The Generative Friction Trilogy: Learning to Intervene, Evaluate, and Collaborate in Multi-Agent Collaboration&lt;/em&gt;, posits that aligning modern language models for collaborative tasks requires treating “friction” as a productive and necessary component of theoretical modeling, training, and evaluation. “Friction” in human-AI interaction has recently entered the mainstream lexicon as a way to decrease overreliance and make humans think for themselves during their interactions with AI systems. Abhijnan’s work was among the earliest to approach this from the modeling and training perspective, backed up with deep theory and proofs, as well as compelling empirical results. The bulk of his dissertation has been published as papers at top conferences including ACL, NeurIPS, and AAMAS, and has been cited in Microsoft’s 2025 New Future of Work report as an example of research that can help create a better future of work with AI.&lt;/p&gt;
+
+&lt;p&gt;Congratulations to Abhijnan!  Your work is ahead of the curve and stands to make a great impact on the field. It’s already made a huge impact on the lab. The bar is high. Best of luck in what comes next!&lt;/p&gt;
+
+&lt;p&gt;Here is a picture after defense, of Abhijnan with two of his committee members: Prof. Ewan Davies (CS) and Prof. Michael Kirby (Math). And me (not shown, Prof. Nathaniel Blanchard, who attended online).&lt;/p&gt;
+
+&lt;p&gt;In the words of Ewan: “I want to give a Ph.D. to this man.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../assets/images/posts/abhijnan-defense-phd.jpg?raw=true&quot; alt=&quot;Abhijnan NathPhD Dissertation Defense&quot; title=&quot;Abhijnan Nath PhD Dissertation Defense&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(X-posted on &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/2026/02/26/congratulations-dr-abhijnan-nath.html&quot;&gt;nikhilkrishnaswamy.com&lt;/a&gt;)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Feb 2026 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai/https://www.signallab.ai//congratulations-dr-abhijnan-nath</link>
+        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//congratulations-dr-abhijnan-nath</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        <category>grads</category>
+        
+        
+      </item>
     
       <item>
         <title>2025 Wrapped</title>
@@ -216,29 +245,6 @@
         <category>news</category>
         
         <category>grads</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>DARPA FACT AIE Award</title>
-        <description>&lt;p&gt;I am beyond excited that we have been awarded a contract on the DARPA Friction and Accountability in Conversational Transactions (FACT) AI Exploration program! Our project, &lt;em&gt;TRACE: Transparency, Reflection, and Accountability in Conversational Exchanges&lt;/em&gt;, will address a lack of “friction” (deliberation and reflective reasoning) in LLMs that prevent them from being used reliably in mission-critical workflows.&lt;/p&gt;
-
-&lt;p&gt;Put simply, LLMs are incentivized to accept the premises in whatever is input to them, even if false or faulty, and generate responses accordingly. This is due to an inability to track and assess the validity of beliefs held by their interlocutors. Theory of Mind (ToM) provides a way of measuring and tracking such beliefs, such as in the course of a shared collaborative task. Therefore we’re going to build ToM into LLMs.&lt;/p&gt;
-
-&lt;p&gt;This project is a collaboration with Dr. James Pustejovsky at Brandeis University. Other CSU personnel include Dr. Nate Blanchard, Dr. Sarath Sreedharan, and Dr. Bruce Draper. I’m very excited to lead this excellent team!&lt;/p&gt;
-
-&lt;p&gt;(X-posted on &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/2024/02/23/darpa-fact-aie-award.html&quot;&gt;nikhilkrishnaswamy.com&lt;/a&gt;)&lt;/p&gt;
-</description>
-        <pubDate>Fri, 23 Feb 2024 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai/https://www.signallab.ai//darpa-fact-aie-award</link>
-        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//darpa-fact-aie-award</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
-        
-        <category>grants</category>
         
         
       </item>
