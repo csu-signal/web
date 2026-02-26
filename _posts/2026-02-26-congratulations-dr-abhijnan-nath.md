@@ -12,7 +12,7 @@ Abhijnan's dissertation, *The Generative Friction Trilogy: Learning to Intervene
 
 Congratulations to Abhijnan!  Your work is ahead of the curve and stands to make a great impact on the field. It's already made a huge impact on the lab. The bar is high. Best of luck in what comes next!
 
-Here is a picture after defense, of Abhijnna with two of his committee members: Prof. Ewan Davies (CS) and Prof. Michael Kirby (Math). And me (not shown, Prof. Nathaniel Blanchard, who attended online).
+Here is a picture after defense, of Abhijnan with two of his committee members: Prof. Ewan Davies (CS) and Prof. Michael Kirby (Math). And me (not shown, Prof. Nathaniel Blanchard, who attended online).
 
 In the words of Ewan: "I want to give a Ph.D. to this man."
 
