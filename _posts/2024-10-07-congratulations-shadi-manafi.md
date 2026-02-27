@@ -16,4 +16,4 @@ Here is a picture after defense, of Shadi with her committee members: Prof. Fran
 
 ![Shadi Manafi PhD Dissertation Defense](../assets/images/fall24/shadi-defense.jpg?raw=true "Shadi Manafi PhD Dissertation Defense")
 
-(X-posted on [nikhilkrishnaswamy.com](https://www.nikhilkrishnaswamy.com/2024/06/25/congratulations-shadi-manafi.html))
+(X-posted on [nikhilkrishnaswamy.com](https://www.nikhilkrishnaswamy.com/2024/10/07/congratulations-shadi-manafi.html))

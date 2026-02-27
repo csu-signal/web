@@ -16,6 +16,6 @@ Here is a picture after defense, of Abhijnan with two of his committee members: 
 
 In the words of Ewan: "I want to give a Ph.D. to this man."
 
-![Abhijnan NathPhD Dissertation Defense](../../../assets/images/posts/abhijnan-defense-phd.jpg?raw=true "Abhijnan Nath PhD Dissertation Defense")
+![Abhijnan Nath PhD Dissertation Defense](../assets/images/spring26/abhijnan-defense.jpg?raw=true "Abhijnan Nath PhD Dissertation Defense")
 
 (X-posted on [nikhilkrishnaswamy.com](https://www.nikhilkrishnaswamy.com/2026/02/26/congratulations-dr-abhijnan-nath.html))
