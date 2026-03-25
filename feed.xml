@@ -5,9 +5,38 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Mar 2026 03:40:34 +0000</pubDate>
-    <lastBuildDate>Sat, 07 Mar 2026 03:40:34 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2026 02:10:06 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 02:10:06 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Congratulations to Dr. Sheikh Mannan!</title>
+        <description>&lt;p&gt;Congratulations to Dr. &lt;strong&gt;Sheikh Mannan&lt;/strong&gt; for successfully defending his Ph.D. dissertation!&lt;/p&gt;
+
+&lt;p&gt;Mannan’s dissertation, &lt;em&gt;Real-Time AI Assistance for Disorienting Control Tasks: Performance, Alignment, and Trust&lt;/em&gt;, examines AI task guidance in real-time spatially disorienting situations such as maintaining balance and flight maneuvering. He used human-in-the-loop training techniques to train a variety of AI assistants to both perform and guide humans through challenging action tasks with well-controlled parameters and investigated the relationship between joint performance, human-likeness, and reported reliance and trust. One of the most interesting conclusions of his work was that human subjects report greater trust in AI assistants that performed the tasks more like humans, even if their objective ability to perform task guidance was suboptimal. An additional finding showed that AI assistance was most beneficial to intermediate-proficiency task performers, while being less helpful to novices and experts, which aligns with other findings on AI utility in domains like education. Mannan’s work began in collaboration with the Ashton Graybiel Spatial Orientation Laboratory at Brandeis University, was inspirational to our approach to the ARPA-H PARADIGM program, and was published in multiple papers, including at AAAI and a Best Paper Nominee at HAI 2024.&lt;/p&gt;
+
+&lt;p&gt;Congratulations to Mannan!  Your work has positioned the fields of human-AI interaction, human factors, and AI decision support to address some truly novel questions. Two heavy hitters will be moving on from the lab this year. Big shoes to fill!&lt;/p&gt;
+
+&lt;p&gt;Here is a picture after the defense, of Mannan, me, and Prof. Nathaniel Blanchard (not show, Prof. Sarath Sreedharan, from CS, and Prof. Matt Rhodes, external member from Psychology, who both attended online).&lt;/p&gt;
+
+&lt;p&gt;Mannan will be starting a full-time position at Meta in June. Congratulations, Mannan!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/spring26/mannan-defense.jpg?raw=true&quot; alt=&quot;Sheikh Mannan PhD Dissertation Defense&quot; title=&quot;Sheikh Mannan PhD Dissertation Defense&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(X-posted on &lt;a href=&quot;https://www.nikhilkrishnaswamy.com/2026/03/24/congratulations-dr-sheikh-mannan.html&quot;&gt;nikhilkrishnaswamy.com&lt;/a&gt;)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Mar 2026 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai/https://www.signallab.ai//congratulations-dr-sheikh-mannan</link>
+        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//congratulations-dr-sheikh-mannan</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        <category>grads</category>
+        
+        
+      </item>
     
       <item>
         <title>Congratulations to Animesh Gurjar!</title>
@@ -40,7 +69,7 @@
 
 &lt;p&gt;Congratulations to Abhijnan!  Your work is ahead of the curve and stands to make a great impact on the field. It’s already made a huge impact on the lab. The bar is high. Best of luck in what comes next!&lt;/p&gt;
 
-&lt;p&gt;Here is a picture after defense, of Abhijnan with two of his committee members: Prof. Ewan Davies (CS) and Prof. Michael Kirby (Math). And me (not shown, Prof. Nathaniel Blanchard, who attended online).&lt;/p&gt;
+&lt;p&gt;Here is a picture after the defense, of Abhijnan with two of his committee members: Prof. Ewan Davies (CS) and Prof. Michael Kirby (Math). And me (not shown, Prof. Nathaniel Blanchard, who attended online).&lt;/p&gt;
 
 &lt;p&gt;In the words of Ewan: “I want to give a Ph.D. to this man.”&lt;/p&gt;
 
@@ -222,25 +251,6 @@
         <category>news</category>
         
         <category>pubs</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>CS Department Scholarship Recipients</title>
-        <description>&lt;p&gt;Three SIGNAL Lab students were awarded scholarships by the CSU CS department for meritorious achievements in AI/computer science.&lt;/p&gt;
-
-&lt;p&gt;The recipients are: &lt;strong&gt;Abhijnan Nath&lt;/strong&gt;, winner of the Evolutionary Computation and Artificial Intelligence Graduate Fellowship; &lt;strong&gt;Sheikh Mannan&lt;/strong&gt;, winner of the Computer Science Graduate Fellowship; and &lt;strong&gt;Shadi Manafi&lt;/strong&gt;, winner of the Wim Böhm and Partners Fellowship.  Congratulations to Abhijnan, Mannan, and Shadi!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 06 May 2024 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai/https://www.signallab.ai//cs-department-scholarship-recipients</link>
-        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//cs-department-scholarship-recipients</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
-        
-        <category>awards</category>
         
         
       </item>
