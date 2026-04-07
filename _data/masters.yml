@@ -1,19 +1,9 @@
-animesia:
-  username: animesia
-  name: Animesh Gurjar
-  location: Fort Collins, CO
+ericredman:
+  username: ericredman
+  name: Eric Redman
+  location: Denver, CO
   email:
   url_full:
   url:
   bio: Graduate Student in Computer Science at Colorado State University
-  assets: assets/images/summer25/gurjar.png
-  
-videepv:
-  username: videepv
-  name: Videep Venkatesha
-  location: Fort Collins, CO
-  email:
-  url_full:
-  url:
-  bio: Graduate Student in Computer Science at Colorado State University
-  assets: assets/images/summer24/venkatesha.png
+  assets:
