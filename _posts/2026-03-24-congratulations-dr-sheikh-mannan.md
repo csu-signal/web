@@ -12,7 +12,7 @@ Mannan's dissertation, *Real-Time AI Assistance for Disorienting Control Tasks: 
 
 Congratulations to Mannan!  Your work has positioned the fields of human-AI interaction, human factors, and AI decision support to address some truly novel questions. Two heavy hitters will be moving on from the lab this year. Big shoes to fill!
 
-Here is a picture after the defense, of Mannan, me, and Prof. Nathaniel Blanchard (not show, Prof. Sarath Sreedharan, from CS, and Prof. Matt Rhodes, external member from Psychology, who both attended online).
+Here is a picture after the defense, of Mannan, me, and Prof. Nathaniel Blanchard (not shown, Prof. Sarath Sreedharan, from CS, and Prof. Matt Rhodes, external member from Psychology, who both attended online).
 
 Mannan will be starting a full-time position at Meta in June. Congratulations, Mannan!
 

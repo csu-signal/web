@@ -1,12 +1,12 @@
-abhijnannath:
-  username: abhijnannath
-  name: Abhijnan Nath
-  email: abhijnan [dot] nath [at] colostate [dot] edu
+animesia:
+  username: animesia
+  name: Animesh Gurjar
   location: Fort Collins, CO
-  url_full: https://abhijnannath.github.io/abhijnan.github.io
-  url: abhijnannath.github.io/abhijnan.github.io
-  bio: Abhijnan works primarily in AI for natural language understanding (NLU) and computational semantics, spanning topics like coreference resolution and cognate detection, transformer-based language models, and their downstream applications with a drive to extend such research to low-resource languages. He holds an MSc. in Physics (minor in Computer Science) from Birla Institute of Technology and Science (BITS), Pilani, India and studied Rawlsian Political theory at JNU, New Delhi. In the past, he has collaborated with the Jackson Lab, Stanford University, and the Natural Resource Ecology Lab, CSU to build their atmospheric N20 prediction pipeline using time-series data exploration. He is a big fan of Pavarotti, Bach, and Dream Theater and loves to work on his musical projects when he is not dealing with CUDA tensors!
-  assets: assets/images/fall22/nath.png
+  email:
+  url_full:
+  url:
+  bio: Graduate Student in Computer Science at Colorado State University
+  assets: assets/images/summer25/gurjar.png
   
 anju:
   username: anju
@@ -26,7 +26,7 @@ a-ulkryxx:
   url_full:
   url:
   bio: Ph.D. Student in Computer Science at Colorado State University
-  assets:
+  assets: assets/images/spring26/youngren.png
   
 blcates:
   username: blcates
@@ -38,16 +38,6 @@ blcates:
   bio: Brittany is a Ph.D. student in Computer Science at Colorado State University, with a focus in Human-Centered Artificial Intelligence. With her prior education in Psychology, she is fascinated by the ways in which the cognitive science intersects with AI and user experience. On the rare occasions she finds herself away from a computer screen, she enjoys reading, gardening, and art.
   assets: assets/images/spring23/cates.png
   
-animesia:
-  username: animesia
-  name: Animesh Gurjar
-  location: Fort Collins, CO
-  email:
-  url_full:
-  url:
-  bio: Graduate Student in Computer Science at Colorado State University
-  assets: assets/images/summer25/gurjar.png
-  
 carineg:
   username: carineg
   name: Carine Graff
@@ -57,6 +47,16 @@ carineg:
   url: www.linkedin.com/in/carinegraff
   bio: Carine has a background in foreign language acquisition and applied linguistics. She holds a Ph.D. in natural language translation studies from Kent State University, Ohio and  obtained her Master's in computer science from SMU in Dallas, Texas. Her research interests lie at the intersection of LLM alignment, speech recognition, ethics, and language translation. Carine is particularly interested in how aligned LLMs can support responsible multilingual systems that integrate speech and text. A central ethical concern in her research is the exclusion of certain accents and underrepresented languages in speech recognition systems, which reinforces linguistic inequities but also marginalizes individuals who rely on these systems due to disabilities. Her work investigates how to build more inclusive models that not only translate accurately across languages, but also recognize diverse speech patterns, ensuring fair and accountable AI-mediated communication. In her free time, Carine loves hiking in the Rockies, cooking, and baking her own *miches campagne* (round loaves of French sourdough).
   assets: assets/images/summer25/graff.png
+  
+hannahvanderh:
+  username: hannahvanderh
+  name: Hannah VanderHoeven
+  location: Salt Lake City, UT
+  email:
+  url_full:
+  url:
+  bio: Hannah is a Ph.D. student at Colorado State University. Her research with the Situated Grounding and Natural Language (SIGNAL) Lab focuses mainly on multimodal feature processing and their applications in human computer interaction. She’s interested in investigating how gesture semantics, when standalone or combined with other communicative features, can impact assumptions or features made available to an agent—specifically, leveraging pragmatics to help determine how multimodality can be used to effectively communicate the optimal amount of information to a listener. In addition to educational experience, Hannah has 9 years of industry experience working as a software engineer, with an emphasis on user interface and design. Her job has provided experience designing, writing, and maintaining graphical user interfaces that support various hardware systems and customers. Hannah also has a passion for education and mentoring. Throughout her professional and educational career, she has consistently looked for teaching and volunteer opportunities, including mentoring junior engineers at her job and volunteering at a local elementary school teaching coding to children.
+  assets: assets/images/spring24/vanderhoeven.png
   
 benkhebour:
   username: benkhebour
@@ -86,27 +86,17 @@ sghaffari:
   url_full:
   url:
   bio: Ph.D. Student in Computer Science at Colorado State University
-  assets: 
+  assets:
   
-sabdulm:
-    username: sabdulm
-    name: Sheikh Mannan
-    email: sheikh [dot] mannan [at] colostate [dot] edu
-    location: Fort Collins, CO
-    url_full: https://sheikhmannan.com
-    url: sheikhmannan.com
-    bio: Ph.D. Student in Computer Science at Colorado State University
-    assets: assets/images/spring22/mannan.png
-    
-hannahvanderh:
-  username: hannahvanderh
-  name: Hannah VanderHoeven
-  location: Salt Lake City, UT
+sifat:
+  username: sifat
+  name: Sifat Anindho
+  location: Fort Collins, CO
   email:
   url_full:
   url:
-  bio: Hannah is a Ph.D. student at Colorado State University. Her research with the Situated Grounding and Natural Language (SIGNAL) Lab focuses mainly on multimodal feature processing and their applications in human computer interaction. She’s interested in investigating how gesture semantics, when standalone or combined with other communicative features, can impact assumptions or features made available to an agent—specifically, leveraging pragmatics to help determine how multimodality can be used to effectively communicate the optimal amount of information to a listener. In addition to educational experience, Hannah has 9 years of industry experience working as a software engineer, with an emphasis on user interface and design. Her job has provided experience designing, writing, and maintaining graphical user interfaces that support various hardware systems and customers. Hannah also has a passion for education and mentoring. Throughout her professional and educational career, she has consistently looked for teaching and volunteer opportunities, including mentoring junior engineers at her job and volunteering at a local elementary school teaching coding to children.
-  assets: assets/images/spring24/vanderhoeven.png
+  bio: Ph.D. Student in Computer Science at Colorado State University
+  assets:
   
 videepv:
   username: videepv
