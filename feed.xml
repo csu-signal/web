@@ -5,9 +5,32 @@
     <description>Situated Grounding and Natural Language &lt;br/&gt; NLP @ CSU</description>
     <link>https://www.signallab.ai/https://www.signallab.ai//</link>
     <atom:link href="https://www.signallab.ai/https://www.signallab.ai//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Apr 2026 16:00:51 +0000</pubDate>
-    <lastBuildDate>Tue, 07 Apr 2026 16:00:51 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 03:45:37 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 03:45:37 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>AY 2025-26 Wrapped</title>
+        <description>&lt;p&gt;New Doctors: 2
+New Masters: 4
+New Tenured Professors: 1
+Lab Lunches: 1
+Times grad students stayed out until 4am in a strange city: ≥2&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/spring26/lab-lunch.jpg?raw=true&quot; alt=&quot;Lab Lunch&quot; title=&quot;Lab Lunch&quot; /&gt;
+&lt;img src=&quot;../assets/images/spring26/lab-lunch.jpg?raw=true&quot; alt=&quot;Graduation&quot; title=&quot;Graduation&quot; /&gt;
+&lt;img src=&quot;../assets/images/spring26/signal-lab-grads.jpg?raw=true&quot; alt=&quot;SIGNAL Lab Grads&quot; title=&quot;SIGNAL Lab Grads&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Jun 2026 07:00:00 +0000</pubDate>
+        <link>https://www.signallab.ai/https://www.signallab.ai//ay-2025-26-wrapped</link>
+        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//ay-2025-26-wrapped</guid>
+        
+        <category>lab</category>
+        
+        <category>news</category>
+        
+        
+      </item>
     
       <item>
         <title>Congratulations to Dr. Sheikh Mannan!</title>
@@ -17,7 +40,7 @@
 
 &lt;p&gt;Congratulations to Mannan!  Your work has positioned the fields of human-AI interaction, human factors, and AI decision support to address some truly novel questions. Two heavy hitters will be moving on from the lab this year. Big shoes to fill!&lt;/p&gt;
 
-&lt;p&gt;Here is a picture after the defense, of Mannan, me, and Prof. Nathaniel Blanchard (not show, Prof. Sarath Sreedharan, from CS, and Prof. Matt Rhodes, external member from Psychology, who both attended online).&lt;/p&gt;
+&lt;p&gt;Here is a picture after the defense, of Mannan, me, and Prof. Nathaniel Blanchard (not shown, Prof. Sarath Sreedharan, from CS, and Prof. Matt Rhodes, external member from Psychology, who both attended online).&lt;/p&gt;
 
 &lt;p&gt;Mannan will be starting a full-time position at Meta in June. Congratulations, Mannan!&lt;/p&gt;
 
@@ -230,27 +253,6 @@
         <category>news</category>
         
         <category>grads</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Here are three of us at LREC-COLING 2024</title>
-        <description>&lt;p&gt;Here are three of us outside the Lingotto Conference Center in Turin, Italy, site of LREC-COLING 2024, held from May 20-25. From left to right: Shadi Manafi, Nikhil Krishnaswamy, Abhijnan Nath, and Ibrahim Khebour.&lt;/p&gt;
-
-&lt;p&gt;We had one poster presentation and two talks, and LREC-COLING hired a (really quite good, though very loud) Queen cover band for the gala dinner.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/summer24/lrec-coling-2024.jpg?raw=true&quot; alt=&quot;LREC-COLING 2024&quot; title=&quot;LREC-COLING 2024&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 31 May 2024 07:00:00 +0000</pubDate>
-        <link>https://www.signallab.ai/https://www.signallab.ai//lrec-coling-2024</link>
-        <guid isPermaLink="true">https://www.signallab.ai/https://www.signallab.ai//lrec-coling-2024</guid>
-        
-        <category>lab</category>
-        
-        <category>news</category>
-        
-        <category>pubs</category>
         
         
       </item>
