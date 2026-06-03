@@ -80,7 +80,7 @@ img {
   <p align="left">
   (people who I never signed a piece of paper for but who I worked with closely)
   {% for person in site.data.honorary %}
-    <strong>{{ person[1].name }}</strong> ({{ person[1].degree }}, {{ person[1].year }}) - {{ person[1].next }}
+    <strong>{{ person[1].name }}</strong> ({{ person[1].degree }}, {{ person[1].year }}) {% if person[1].next != null %} - {{ person[1].next }}{% endif %}
   {% endfor %}
   </p>
   <hr>
